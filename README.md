@@ -14,6 +14,11 @@ Please do not rely only on the preview images of this theme (they are of average
 
 > Tip: the display name of theme is as follow: the first part (e.g.: **Apophis**) is token colors name, the second (e.g.: **Dark Matter**) is the main related colors structure, the third (e.g.: **Nadir**) part of name is the background suite and UI main colors, last part (e.g.: **Viserion**) is simply the representation name for main foreground/highlights color.
 
+
+<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+# My Themes
+
 [Try all my themes on Marketplace](https://marketplace.visualstudio.com/search?term=publisher%3A%22Nicola%20Granata%22&target=VSCode&category=Themes&sortBy=Relevance).
 
 - Apophis Dark Matter
@@ -26,6 +31,7 @@ Please do not rely only on the preview images of this theme (they are of average
 
 
 # Table of contents
+1. [My Themes](#my-themes "My Themes")
 1. [Apophis token colors based skins](#apophis-token-colors-based-skins "Apophis token colors based skins")
 1. [Apophis Dark Matter Preview Gallery](#apophis-dark-matter-preview-gallery "Apophis Dark Matter Preview Gallery")
 	* [**Cold** (10 skins): Cold Gray Background and Cold Token Colors](#cold-10-skins-cold-gray-background-and-cold-token-colors "**Cold** (10 skins): Cold Gray Background and Cold Token Colors")
@@ -173,23 +179,23 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Cold** (10 skins): Cold Gray Background and Cold Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-komodo-preview.png" title="Go to Apophis Dark Matter - Cold - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-cold-komodo-preview.png"  alt="Apophis Dark Matter - Cold - Komodo"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-aquamarine-preview.png" title="Go to Apophis Dark Matter - Cold - Aquamarine" target="github"><img src="./_gfx/apophis-dark-matter-cold-aquamarine-preview.png"  alt="Apophis Dark Matter - Cold - Aquamarine"></a>
 </center>
 
-<div>Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-komodo-preview.png" title="Go to Apophis Dark Matter - Cold - Komodo" target="github">Komodo</a> 
+<div>Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-aquamarine-preview.png" title="Go to Apophis Dark Matter - Cold - Aquamarine" target="github">Aquamarine</a> 
 </div>
 
 
 
 <center>
 <table style="max-width:960px;">
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-aquamarine-preview.png" title="Go to Apophis Dark Matter - Cold - Aquamarine" target="github"><img src="./_gfx/apophis-dark-matter-cold-aquamarine-preview.png"  alt="Apophis Dark Matter - Cold - Aquamarine"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Cold - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Cold - Black Pond Has My Heart"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Cold - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Cold - Black Pond Has My Heart"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-komodo-preview.png" title="Go to Apophis Dark Matter - Cold - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-cold-komodo-preview.png"  alt="Apophis Dark Matter - Cold - Komodo"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-kronos-preview.png" title="Go to Apophis Dark Matter - Cold - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-cold-kronos-preview.png"  alt="Apophis Dark Matter - Cold - Kronos"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-meabh-preview.png" title="Go to Apophis Dark Matter - Cold - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-cold-meabh-preview.png"  alt="Apophis Dark Matter - Cold - Meabh"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-aquamarine-preview.png" title="Go to Apophis Dark Matter - Cold - Aquamarine" target="github">Aquamarine</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Cold - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Cold - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-komodo-preview.png" title="Go to Apophis Dark Matter - Cold - Komodo" target="github">Komodo</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-kronos-preview.png" title="Go to Apophis Dark Matter - Cold - Kronos" target="github">Kronos</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Cold - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-meabh-preview.png" title="Go to Apophis Dark Matter - Cold - Meabh" target="github">Meabh</a> 
 </td></tr>
@@ -243,24 +249,24 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Equinox** (8 skins): Dark Night UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Equinox - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Equinox - Black Pond Has My Heart"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-kronos-preview.png" title="Go to Apophis Dark Matter - Equinox - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-equinox-kronos-preview.png"  alt="Apophis Dark Matter - Equinox - Kronos"></a>
 </center>
 
-<div>Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Equinox - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
+<div>Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-kronos-preview.png" title="Go to Apophis Dark Matter - Equinox - Kronos" target="github">Kronos</a> 
 </div>
 
 
 
 <center>
 <table style="max-width:960px;">
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-burn-preview.png" title="Go to Apophis Dark Matter - Equinox - Burn" target="github"><img src="./_gfx/apophis-dark-matter-equinox-burn-preview.png"  alt="Apophis Dark Matter - Equinox - Burn"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Equinox - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Equinox - Black Pond Has My Heart"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-burn-preview.png" title="Go to Apophis Dark Matter - Equinox - Burn" target="github"><img src="./_gfx/apophis-dark-matter-equinox-burn-preview.png"  alt="Apophis Dark Matter - Equinox - Burn"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-komodo-preview.png" title="Go to Apophis Dark Matter - Equinox - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-equinox-komodo-preview.png"  alt="Apophis Dark Matter - Equinox - Komodo"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-kronos-preview.png" title="Go to Apophis Dark Matter - Equinox - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-equinox-kronos-preview.png"  alt="Apophis Dark Matter - Equinox - Kronos"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-meabh-preview.png" title="Go to Apophis Dark Matter - Equinox - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-equinox-meabh-preview.png"  alt="Apophis Dark Matter - Equinox - Meabh"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-burn-preview.png" title="Go to Apophis Dark Matter - Equinox - Burn" target="github">Burn</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Equinox - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-burn-preview.png" title="Go to Apophis Dark Matter - Equinox - Burn" target="github">Burn</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-komodo-preview.png" title="Go to Apophis Dark Matter - Equinox - Komodo" target="github">Komodo</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-kronos-preview.png" title="Go to Apophis Dark Matter - Equinox - Kronos" target="github">Kronos</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Equinox - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-meabh-preview.png" title="Go to Apophis Dark Matter - Equinox - Meabh" target="github">Meabh</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-mystic-river-preview.png" title="Go to Apophis Dark Matter - Equinox - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-equinox-mystic-river-preview.png"  alt="Apophis Dark Matter - Equinox - Mystic River"></a>
@@ -279,10 +285,10 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Flat** (10 skins): Flat Gray Background and Default Token Colos
-<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-kronos-preview.png" title="Go to Apophis Dark Matter - Flat - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-flat-kronos-preview.png"  alt="Apophis Dark Matter - Flat - Kronos"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Flat - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Flat - Black Pond Has My Heart"></a>
 </center>
 
-<div>Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-kronos-preview.png" title="Go to Apophis Dark Matter - Flat - Kronos" target="github">Kronos</a> 
+<div>Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Flat - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
 </div>
 
 
@@ -290,13 +296,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 <center>
 <table style="max-width:960px;">
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-aquamarine-preview.png" title="Go to Apophis Dark Matter - Flat - Aquamarine" target="github"><img src="./_gfx/apophis-dark-matter-flat-aquamarine-preview.png"  alt="Apophis Dark Matter - Flat - Aquamarine"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Flat - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Flat - Black Pond Has My Heart"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-komodo-preview.png" title="Go to Apophis Dark Matter - Flat - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-flat-komodo-preview.png"  alt="Apophis Dark Matter - Flat - Komodo"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-kronos-preview.png" title="Go to Apophis Dark Matter - Flat - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-flat-kronos-preview.png"  alt="Apophis Dark Matter - Flat - Kronos"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-meabh-preview.png" title="Go to Apophis Dark Matter - Flat - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-flat-meabh-preview.png"  alt="Apophis Dark Matter - Flat - Meabh"></a>
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-aquamarine-preview.png" title="Go to Apophis Dark Matter - Flat - Aquamarine" target="github">Aquamarine</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Flat - Black Pond Has My Heart" target="github">Black pond has my heart</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-komodo-preview.png" title="Go to Apophis Dark Matter - Flat - Komodo" target="github">Komodo</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-kronos-preview.png" title="Go to Apophis Dark Matter - Flat - Kronos" target="github">Kronos</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Flat - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-meabh-preview.png" title="Go to Apophis Dark Matter - Flat - Meabh" target="github">Meabh</a> 
 </td></tr>
 <tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-morion-preview.png" title="Go to Apophis Dark Matter - Flat - Morion" target="github"><img src="./_gfx/apophis-dark-matter-flat-morion-preview.png"  alt="Apophis Dark Matter - Flat - Morion"></a>
@@ -393,10 +399,10 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Nadir** (11 skins): Flat Grayed UI and Desatured Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-kronos-preview.png" title="Go to Apophis Dark Matter - Nadir - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-nadir-kronos-preview.png"  alt="Apophis Dark Matter - Nadir - Kronos"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-meabh-preview.png" title="Go to Apophis Dark Matter - Nadir - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-nadir-meabh-preview.png"  alt="Apophis Dark Matter - Nadir - Meabh"></a>
 </center>
 
-<div>Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-kronos-preview.png" title="Go to Apophis Dark Matter - Nadir - Kronos" target="github">Kronos</a> 
+<div>Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-meabh-preview.png" title="Go to Apophis Dark Matter - Nadir - Meabh" target="github">Meabh</a> 
 </div>
 
 
@@ -413,12 +419,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-burn-preview.png" title="Go to Apophis Dark Matter - Nadir - Burn" target="github">Burn</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-komodo-preview.png" title="Go to Apophis Dark Matter - Nadir - Komodo" target="github">Komodo</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-meabh-preview.png" title="Go to Apophis Dark Matter - Nadir - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-nadir-meabh-preview.png"  alt="Apophis Dark Matter - Nadir - Meabh"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-kronos-preview.png" title="Go to Apophis Dark Matter - Nadir - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-nadir-kronos-preview.png"  alt="Apophis Dark Matter - Nadir - Kronos"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-morion-preview.png" title="Go to Apophis Dark Matter - Nadir - Morion" target="github"><img src="./_gfx/apophis-dark-matter-nadir-morion-preview.png"  alt="Apophis Dark Matter - Nadir - Morion"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-mystic-river-preview.png" title="Go to Apophis Dark Matter - Nadir - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-nadir-mystic-river-preview.png"  alt="Apophis Dark Matter - Nadir - Mystic River"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-obsidian-preview.png" title="Go to Apophis Dark Matter - Nadir - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-nadir-obsidian-preview.png"  alt="Apophis Dark Matter - Nadir - Obsidian"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-meabh-preview.png" title="Go to Apophis Dark Matter - Nadir - Meabh" target="github">Meabh</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-kronos-preview.png" title="Go to Apophis Dark Matter - Nadir - Kronos" target="github">Kronos</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-morion-preview.png" title="Go to Apophis Dark Matter - Nadir - Morion" target="github">Morion</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-mystic-river-preview.png" title="Go to Apophis Dark Matter - Nadir - Mystic River" target="github">Mystic River</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Nadir - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-obsidian-preview.png" title="Go to Apophis Dark Matter - Nadir - Obsidian" target="github">Obsidian</a> 
@@ -437,10 +443,10 @@ However, attempts were made to leave error signals and selections clearly visibl
 <div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
 
 ## **Warm** (10 skins): Warm Gray Background and Warm Token Colors
-<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-mystic-river-preview.png" title="Go to Apophis Dark Matter - Warm - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-warm-mystic-river-preview.png"  alt="Apophis Dark Matter - Warm - Mystic River"></a>
+<center> <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-meabh-preview.png" title="Go to Apophis Dark Matter - Warm - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-warm-meabh-preview.png"  alt="Apophis Dark Matter - Warm - Meabh"></a>
 </center>
 
-<div>Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-mystic-river-preview.png" title="Go to Apophis Dark Matter - Warm - Mystic River" target="github">Mystic River</a> 
+<div>Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-meabh-preview.png" title="Go to Apophis Dark Matter - Warm - Meabh" target="github">Meabh</a> 
 </div>
 
 
@@ -457,13 +463,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-komodo-preview.png" title="Go to Apophis Dark Matter - Warm - Komodo" target="github">Komodo</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-kronos-preview.png" title="Go to Apophis Dark Matter - Warm - Kronos" target="github">Kronos</a> 
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-meabh-preview.png" title="Go to Apophis Dark Matter - Warm - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-warm-meabh-preview.png"  alt="Apophis Dark Matter - Warm - Meabh"></a>
-</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-morion-preview.png" title="Go to Apophis Dark Matter - Warm - Morion" target="github"><img src="./_gfx/apophis-dark-matter-warm-morion-preview.png"  alt="Apophis Dark Matter - Warm - Morion"></a>
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-morion-preview.png" title="Go to Apophis Dark Matter - Warm - Morion" target="github"><img src="./_gfx/apophis-dark-matter-warm-morion-preview.png"  alt="Apophis Dark Matter - Warm - Morion"></a>
+</td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-mystic-river-preview.png" title="Go to Apophis Dark Matter - Warm - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-warm-mystic-river-preview.png"  alt="Apophis Dark Matter - Warm - Mystic River"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-obsidian-preview.png" title="Go to Apophis Dark Matter - Warm - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-warm-obsidian-preview.png"  alt="Apophis Dark Matter - Warm - Obsidian"></a>
 </td><td style="font-size:90%;padding:4px;vertical-align:top;"><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-sulfur-preview.png" title="Go to Apophis Dark Matter - Warm - Sulfur" target="github"><img src="./_gfx/apophis-dark-matter-warm-sulfur-preview.png"  alt="Apophis Dark Matter - Warm - Sulfur"></a>
 </td></tr>
-<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-meabh-preview.png" title="Go to Apophis Dark Matter - Warm - Meabh" target="github">Meabh</a> 
-</td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-morion-preview.png" title="Go to Apophis Dark Matter - Warm - Morion" target="github">Morion</a> 
+<tr><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-morion-preview.png" title="Go to Apophis Dark Matter - Warm - Morion" target="github">Morion</a> 
+</td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-mystic-river-preview.png" title="Go to Apophis Dark Matter - Warm - Mystic River" target="github">Mystic River</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-obsidian-preview.png" title="Go to Apophis Dark Matter - Warm - Obsidian" target="github">Obsidian</a> 
 </td><td style="font-size:90%;padding:4px;vertical-align:top;">Warm - <a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-sulfur-preview.png" title="Go to Apophis Dark Matter - Warm - Sulfur" target="github">Sulfur</a> 
 </td></tr>
