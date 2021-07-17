@@ -4,31 +4,50 @@
 
 > Note 2: [`Development`] and [`UI Manager`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
 
-## [1.1.160]
+## [1.1.164]
+
+- [`Development`] Fixed issue with `README.MD`;
+
+## [1.1.163]
+
+- [`Theme`] Fixed some colors;
+- [`Theme`] Fixed the `HCUI` (High Contrast UI) colors.
+- [`Development`] Improved GitHub commit;
+
+## [1.1.162]
+
+- [`Theme`] Introduced the `HCUI` versions (High Contrast UI) for each sub-theme, for low resolution and/or high contrast monitors that, with the standard theme settings, had problems of poor readability due to the transparency applied to the text and to the drop-down menus (thanks Alan Welsh!).
+
+## [1.1.159]
+
 - [`Development`] Optimized Preview Generator;
 
 ## [1.1.158]
+
 - [`Development`] Fix Preview Generator;
 
 ## [1.1.157]
+
 - [`Theme`] Improved `editorBracketMatch` highlight color;
 - [`Development`] Addedd `editorBracketMatch` as independent from automatic colorization keywords;
 - [`Development`] Added Daily / Hourly / Delta foresights to statistics table;
 - [`Readme`] Added some new fonts: "Dank Mono", "Ginotronic", "Monego" family, "M+ 2m" Family, "Operator Mono Lig", "Monaco", "BPmono", "Bitstream Vera Sans Mono", "Luculent", "Whois mono", "NotCourierSans", "KawKab Mono", "Metrickal";
 
 ## [1.1.155]
+
 - [`Theme`] Added `tab.lastPinnedBorder` color (VSCode 1.50);
-- [`Theme`] Fix some UI and Token colors;
-- [`Readme`] Fix some issue and improved Fonts Data Sheet table readability. Removed Font Weight from columns to prevent a partial cut-out of Fonts Table in Marketplace;
+- [`Theme`] Fixed some UI and Token colors;
+- [`Readme`] Fixed some issue and improved Fonts Data Sheet table readability. Removed Font Weight from columns to prevent a partial cut-out of Fonts Table in Marketplace;
 - [`Readme`] Added some new fonts, revised some parameters of the existing ones;
 - [`Development`] Added `Famous Quotes from Movies` to `Fake UI` to better show font applied in fake screenshot;
 - [`Development`] Fix Fake UI elements due to browser or html2canvas.js improvements (partially hidden UI objects or wrong location in rendering);
 - [`Development`] Minor bugs fixed;
 
 ## [1.1.151]
-- [`Theme`] Fix some UI and Token colors;
+
+- [`Theme`] Fixed some UI and Token colors;
 - [`Readme`] Added some new fonts, revised some parameters of the existing ones;
-- [`Readme`] Fix some issue and improved Fonts Data Sheet table readability;
+- [`Readme`] Fixed some issue and improved Fonts Data Sheet table readability;
 - [`Development`] Some code improvements;
 - [`Development`] Fix for some randomizations of `Fake UI`;
 - [`Development`] Added `Search` to `Fake UI` Activity Bar and removed from Panel according to `VSCode 1.46.00 Insider Preview`;
@@ -44,14 +63,14 @@
 
 ## [1.1.146]
 
-- [`Readme`] Fixed some issues in  `README.md` and `CHANGELOG.md` generation.
+- [`Readme`] Fixed some issues in `README.md` and `CHANGELOG.md` generation.
 
 ## [1.1.144]
 
 - [`Readme`] A little improvement to table of `Suggested fonts`, repeating headers every 10 items for more readability;
 - [`Readme`] Waiting for GitHub and VS Code Market to agree on how to generate the ids for the internal hyperlinks of the table of contents, I tried to optimize (as it was some version ago) the title text so that the hyperlinks are working both on the Marketplace ceh on Github (and not only on Github)
 - [`Theme`] I know, the need was not felt, but I created a new theme for my favorite tokencolors. `Apophis Monolith` and `Zenburn Monolith` are based on a single color in various intensities for each skin;
-- [`Theme`] Renamed skins `Golem` to  `Morion`, `Monolith` to  `Aquamarine` and `Salamander` to  `Sulfur`;
+- [`Theme`] Renamed skins `Golem` to `Morion`, `Monolith` to `Aquamarine` and `Salamander` to `Sulfur`;
 - [`Development`] Improved function `alphamatte` and `alphaifbright` for better color results;
 
 ## [1.1.140]
@@ -63,10 +82,7 @@
 ## [1.1.136]
 
 - [`Theme`] Improved some UI skin's main colors;
-- [`Readme`] Found a little mistake that involving my `Table o Contents` generator: `GitHub` and `Visual Studio Marketplace` not uses same method to `hash bookmarks`: offline, in `VSCode`, `MD preview` seems to behave like `GitHub`, but once published, no: when `README.md` showed in preview or in Extension Documentation or on GitHub, bookmarks works correctly, but in the same version, in Marketplace, some bookmarks not working (those that have some particular characters that GitHub replaces each with a `-`, while Marketplace replaces all those sequential with a single `-`):
-	- e.g.: # **All work [ and no play ] makes Jack a dull boy**:
-		- GitHub / Markdown Preview on VSCode 	» `#all-work---and-no-play---makes-jack-a-dull-boy`;
-		- Visual Studio Marketplace 			» `#all-work-and-no-play-makes-jack-a-dull-boy`;
+- [`Readme`] Found a little mistake that involving my `Table o Contents` generator: `GitHub` and `Visual Studio Marketplace` not uses same method to `hash bookmarks`: offline, in `VSCode`, `MD preview` seems to behave like `GitHub`, but once published, no: when `README.md` showed in preview or in Extension Documentation or on GitHub, bookmarks works correctly, but in the same version, in Marketplace, some bookmarks not working (those that have some particular characters that GitHub replaces each with a `-`, while Marketplace replaces all those sequential with a single `-`): - e.g.: # **All work [ and no play ] makes Jack a dull boy**: - GitHub / Markdown Preview on VSCode » `#all-work---and-no-play---makes-jack-a-dull-boy`; - Visual Studio Marketplace » `#all-work-and-no-play-makes-jack-a-dull-boy`;
 - [`Readme`] Added `tab` char to `Suggested fonts` default settings and symbols for font properies;
 - [`Readme`] Added font properties columns `Zero Slashed or Dotted`, `Serif` and `Cursive` in table of `Suggested fonts`. Also some new fonts added;
 - [`Development`] Added `skinUiColorsOverrides` array. This array takes priority over some colors already calculated, to better adapt some shades to the main color of single skin;
@@ -76,7 +92,7 @@
 - [`Theme`] Added `Kronos` skin's main color;
 - [`Theme`] Added `Equinox` skin's sub-set, with Deep Dark/Blue background and desatured token colors;
 - [`Theme`] Satured `Viserion` skins's main color;
-- [`Theme`] Some improvements to theme colors (highlights, errors ad badges color) fol all themes and some tokencolor scopes for *Apophis*;
+- [`Theme`] Some improvements to theme colors (highlights, errors ad badges color) fol all themes and some tokencolor scopes for _Apophis_;
 - [`Readme`] Now `Suggested fonts` shows the default settings in `JSON` format, to quickly test the fonts in `Settings.ini` with reasonable minimum values, for each of them, to limit visual fatigue;
 - [`UI Manager`] Added `Console Log Monitor` for check the progress of skin's rendering in `html2canvas`;
 - [`UI Manager`] Added `Incremental Counter Monitor` for check the progress of skin's rendering in page;
@@ -211,7 +227,7 @@
 - [`Development`] Implemented the function to generate theme based on my UI color with JSON file token colors export directly from VSCode (e.g. Dark+ wich not have an on TextMate equivalent version);
 - [`Development`] Implemented the function to generate previews in GIF/PNG/JPG of VSCode UI tanks to [HTML2Canvas](https://html2canvas.hertzen.com/) library;
 - [`Development`] Implemented the function to generate previews in HTML of VSCode UI (in order to obtain greater fidelity to the final result without testing everytime);
-- [`Development`] Fix some issues of `VSCode Themes Master` in PHP 7.3.9.
+- [`Development`] Fixed some issues of `VSCode Themes Master` in PHP 7.3.9.
 
 ## [1.1.94]
 
@@ -242,7 +258,7 @@
 
 - [`Themes`] Added Nirvana sub-theme group, with a warm variation like Low Blue Light but only on token colors;
 - [`Themes`] Improvements to some UI colors;
-- [`Themes`] Fix some colors in themes skins and in Setting;
+- [`Themes`] Fixed some colors in themes skins and in Setting;
 - [`Development`] Add the function that rebuild missing generic token colors scopes, obtaining them from the analysis of different TextMate Themes. This function also build a global token scopes dictionary for futures implementations;
 - [`Development`] Optimized some functions for themes generation;
 - [`Development`] Automated assignmet of all Token Colors Themes to Skins based on type (dark/light);
@@ -250,9 +266,9 @@
 
 ## [1.1.59]
 
-- [`Themes`] Fix some colors in themes skins;
+- [`Themes`] Fixed some colors in themes skins;
 - [`Development`] Update UI of `VSCode Themes Master`;
-- [`Development`] Fix some bugs in `VSCode Themes Master`.
+- [`Development`] Fixed some bugs in `VSCode Themes Master`.
 
 ## [1.1.54]
 
