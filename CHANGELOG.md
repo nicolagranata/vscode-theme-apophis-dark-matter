@@ -4,34 +4,34 @@
 
 > Note 2: [`Development`] and [`UI Manager`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
 
-## [1.1.165]
+## [1.1.184]
 
-- [`Development`] Fixed issue with `README.MD`;
+- [`Development`] Fixed some problems with the `README.MD` generator in the theme Help.
 
 ## [1.1.163]
 
 - [`Theme`] Fixed some colors;
 - [`Theme`] Fixed the `HCUI` (High Contrast UI) colors.
-- [`Development`] Improved GitHub commit;
+- [`Development`] Improved GitHub commit.
 
 ## [1.1.162]
 
-- [`Theme`] Introduced the `HCUI` versions (High Contrast UI) for each sub-theme, for low resolution and/or high contrast monitors that, with the standard theme settings, had problems of poor readability due to the transparency applied to the text and to the drop-down menus (thanks Alan Welsh!).
+- [`Theme`] Introduced the `HCUI` versions (High Contrast UI) for each sub-theme of `Monolith Suite` (in `Dark Matter Suite` will be implemented in next future), for low resolution and/or high contrast monitors that, with the default theme settings, had problems of poor readability due to the transparency applied to the text and to the drop-down menus (thanks Alan Welsh!).
 
 ## [1.1.159]
 
-- [`Development`] Optimized Preview Generator;
+- [`Development`] Optimized Preview Generator.
 
 ## [1.1.158]
 
-- [`Development`] Fix Preview Generator;
+- [`Development`] Fix Preview Generator.
 
 ## [1.1.157]
 
 - [`Theme`] Improved `editorBracketMatch` highlight color;
 - [`Development`] Addedd `editorBracketMatch` as independent from automatic colorization keywords;
 - [`Development`] Added Daily / Hourly / Delta foresights to statistics table;
-- [`Readme`] Added some new fonts: "Dank Mono", "Ginotronic", "Monego" family, "M+ 2m" Family, "Operator Mono Lig", "Monaco", "BPmono", "Bitstream Vera Sans Mono", "Luculent", "Whois mono", "NotCourierSans", "KawKab Mono", "Metrickal";
+- [`Readme`] Added some new fonts: "Dank Mono", "Ginotronic", "Monego" family, "M+ 2m" Family, "Operator Mono Lig", "Monaco", "BPmono", "Bitstream Vera Sans Mono", "Luculent", "Whois mono", "NotCourierSans", "KawKab Mono", "Metrickal".
 
 ## [1.1.155]
 
@@ -40,7 +40,7 @@
 - [`Readme`] Fixed some issue and improved Fonts Data Sheet table readability. Removed Font Weight from columns to prevent a partial cut-out of Fonts Table in Marketplace;
 - [`Readme`] Added some new fonts, revised some parameters of the existing ones;
 - [`Development`] Added `Famous Quotes from Movies` to `Fake UI` to better show font applied in fake screenshot;
-- [`Development`] Fix Fake UI elements due to browser or html2canvas.js improvements (partially hidden UI objects or wrong location in rendering);
+- [`Development`] Fix Fake UI elements due to browser or html2canvas.js improvements (partially hidden UI objects or wrong location in rendering).
 - [`Development`] Minor bugs fixed;
 
 ## [1.1.151]
@@ -52,14 +52,14 @@
 - [`Development`] Fix for some randomizations of `Fake UI`;
 - [`Development`] Added `Search` to `Fake UI` Activity Bar and removed from Panel according to `VSCode 1.46.00 Insider Preview`;
 - [`Development`] Added `Week Days` to survey data weekly (count of each week day from publication, downloads in week day from publication, average downloads in week day, peak of the week)
-- [`Development`] Added `Delta` (&Delta;) to get difference between last values and previous values, `Week Day of Downloads Peak`, `Survays Numbers` (with previous value stored in `Days from Publication`) columns to `Stats` table and fixed value of `Days from Publication`;
+- [`Development`] Added `Delta` (&Delta;) to get difference between last values and previous values, `Week Day of Downloads Peak`, `Survays Numbers` (with previous value stored in `Days from Publication`) columns to `Stats` table and fixed value of `Days from Publication`.
 
 ## [1.1.147]
 
 - [`Theme`] Added new theme colors for `VS Code 1.45.00`;
 - [`Development`] Fixed some visual bugs in `Fake UI` (Minimap and Indent Guides);
 - [`Development`] Optimized `Stats` columns generation;
-- [`Development`] Added last `n` (default = 30) surveys downloads trend and column color for `Last Interval Survey`;
+- [`Development`] Added last `n` (default = 30) surveys downloads trend and column color for `Last Interval Survey`.
 
 ## [1.1.146]
 
@@ -71,13 +71,13 @@
 - [`Readme`] Waiting for GitHub and VS Code Market to agree on how to generate the ids for the internal hyperlinks of the table of contents, I tried to optimize (as it was some version ago) the title text so that the hyperlinks are working both on the Marketplace ceh on Github (and not only on Github)
 - [`Theme`] I know, the need was not felt, but I created a new theme for my favorite tokencolors. `Apophis Monolith` and `Zenburn Monolith` are based on a single color in various intensities for each skin;
 - [`Theme`] Renamed skins `Golem` to `Morion`, `Monolith` to `Aquamarine` and `Salamander` to `Sulfur`;
-- [`Development`] Improved function `alphamatte` and `alphaifbright` for better color results;
+- [`Development`] Improved function `alphamatte` and `alphaifbright` for better color results.
 
 ## [1.1.140]
 
 - [`Theme`] Added skins `Golem`, `Monolith` and `Salamander`, based on a single color in various intensities;
 - [`Development`] Added function `alphamatte` wich use `color_blend` function with current background color, to fix issue with VSCode terminal colors that do not accept alpha channel and render color as full white;
-- [`Development`] Added function `alphaifbright` function which reduces the alpha if the color is too white;;
+- [`Development`] Added function `alphaifbright` function which reduces the alpha if the color is too white.
 
 ## [1.1.136]
 
@@ -85,7 +85,7 @@
 - [`Readme`] Found a little mistake that involving my `Table o Contents` generator: `GitHub` and `Visual Studio Marketplace` not uses same method to `hash bookmarks`: offline, in `VSCode`, `MD preview` seems to behave like `GitHub`, but once published, no: when `README.md` showed in preview or in Extension Documentation or on GitHub, bookmarks works correctly, but in the same version, in Marketplace, some bookmarks not working (those that have some particular characters that GitHub replaces each with a `-`, while Marketplace replaces all those sequential with a single `-`): - e.g.: # **All work [ and no play ] makes Jack a dull boy**: - GitHub / Markdown Preview on VSCode » `#all-work---and-no-play---makes-jack-a-dull-boy`; - Visual Studio Marketplace » `#all-work-and-no-play-makes-jack-a-dull-boy`;
 - [`Readme`] Added `tab` char to `Suggested fonts` default settings and symbols for font properies;
 - [`Readme`] Added font properties columns `Zero Slashed or Dotted`, `Serif` and `Cursive` in table of `Suggested fonts`. Also some new fonts added;
-- [`Development`] Added `skinUiColorsOverrides` array. This array takes priority over some colors already calculated, to better adapt some shades to the main color of single skin;
+- [`Development`] Added `skinUiColorsOverrides` array. This array takes priority over some colors already calculated, to better adapt some shades to the main color of single skin.
 
 ## [1.1.134]
 
@@ -98,7 +98,7 @@
 - [`UI Manager`] Added `Incremental Counter Monitor` for check the progress of skin's rendering in page;
 - [`UI Manager`] Added checkbox to enable randomization of `Fake UI` elements;
 - [`Development`] Fixed a bug in the `README.md` / `Table of Contents` generator: the bookmarks, under certain conditions, were not generated correctly.
-- [`Development`] Each preview is generated using a different font from those listed among the fonts suggested on this page. ;
+- [`Development`] Each preview is generated using a different font from those listed among the fonts suggested on this page;
 - [`Development`] Added `HTML` example master file for `Fake UI` generator;
 - [`Development`] Added function to randomize `Fake UI` elements while maintaining consistency between sections;
 - [`Development`] Improved function to exclude themes by generation, for themes without expected imminent improvements;
@@ -163,14 +163,14 @@
 - [`Theme`] Added `Obsidian` skin to some sub-themes;
 - [`Readme`] Added big picture preview of a random skin of set;
 - [`UI Manager`] Added `Quick Refresh` button for refresh page without regenerate Fake UI previews;
-- [`Development`] Generic code bug fix and improvements;
+- [`Development`] Generic code bug fix and improvements.
 
 ## [1.1.114]
 
 - [`Theme`] Some `keywords` changed;
 - [`Readme`] Some `README.md` corrections;
 - [`Development`] Improved function to get the harmonic colors;
-- [`Development`] Generic code bug fix and improvements;
+- [`Development`] Generic code bug fix and improvements.
 
 ## [1.1.109]
 
@@ -196,7 +196,7 @@
 - [`Readme`] The organization of the previews is more orderly;
 - [`Readme`] Added font suggestion section;
 - [`UI Manager`] Improved `Token colors Inspector`: now, if opacity is present, shows the same color in two swatches: with and without opacity;
-- [`Development`] Implemented function to manage colors using HSL/HSV and improved some ColorMath functions;
+- [`Development`] Implemented function to manage colors using HSL/HSV and improved some ColorMath functions.
 
 ## [1.1.101]
 
@@ -252,7 +252,7 @@
 ## [1.1.79]
 
 - [`Themes`] Improvements to some UI colors;
-- [`Development`] Optimized some functions for themes generation;
+- [`Development`] Optimized some functions for themes generation.
 
 ## [1.1.71]
 

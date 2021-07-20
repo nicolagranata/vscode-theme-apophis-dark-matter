@@ -1,7 +1,6 @@
-<div align="center" style="text-align:center;margin:auto;">
+<div align="center">
 
-<img src="./_gfx/apophis-dark-matter-cover.png" title="Apophis Dark Matter Theme Cover" alt="Apophis Dark Matter Theme Cover">
-<!-- ![Apophis Dark Matter Theme Cover](./_gfx/apophis-dark-matter-cover.png) -->
+![Apophis Dark Matter Theme Cover](_gfx/apophis-dark-matter-cover.png)
 
 <h1>Apophis Dark Matter Theme</h1>
 <h4>Apophis token colors in different intensities and on different dark backgrounds to reduce eye strain.</h4>
@@ -10,50 +9,17 @@
 
 </div>
 
-<!-- Cold / Deep Sea / Equinox / Flat / Insomnia / Low Blue / Midnight / Nadir / Warm -->
-
-> From version `1.1.162` I have introduced `HCUI` version for each sub-theme, to attempt to solve problems with low resolution monitors.
-
-Please do not rely only on the preview images of this theme (they are of average quality), but try it. Especially if you work at night and for many hours, almost certainly, among all my skins, you will find the colors suitable to avoid eye strain.
-
-> Tip: the display name of theme is as follow: the first part (e.g.: **Apophis**) is token colors name, the second (e.g.: **Dark Matter**) is the main related colors structure, the third (e.g.: **Nadir**) part of name is the background suite and UI main colors, last part (e.g.: **Viserion**) is simply the representation name for main foreground/highlights color.
 
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+<div align="right">
 
-# Latest Changelog for Apophis Dark Matter Theme
+[Go to Table of Contents](#table-of-contents)
 
-See full [Changelog](https://marketplace.visualstudio.com/items/nicola-granata.apophis-dark-matter/changelog) for previous versions.
-
-> Note 1: This Changelog is for the whole **Dark Matter Suite**, not just for this specific Theme.
-
-> Note 2: [`Development`] and [`UI Manager`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
-
-
-
-**Version 1.1.165**
-- [`Development`] Fixed issue with `README.MD`;
-
-
-
-**Version 1.1.163**
-- [`Theme`] Fixed some colors;
-- [`Theme`] Fixed the `HCUI` (High Contrast UI) colors.
-- [`Development`] Improved GitHub commit;
-
-
-
-**Version 1.1.162**
-- [`Theme`] Introduced the `HCUI` versions (High Contrast UI) for each sub-theme, for low resolution and/or high contrast monitors that, with the standard theme settings, had problems of poor readability due to the transparency applied to the text and to the drop-down menus (thanks Alan Welsh!).
-
-
-
-
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+</div>
 
 # My Themes
 
-[Try all my themes on Marketplace](https://marketplace.visualstudio.com/search?term=publisher%3A%22Nicola%20Granata%22&target=VSCode&category=Themes&sortBy=Relevance).
+[Try all my themes on Marketplace](https://marketplace.visualstudio.com/search?term=publisher%3A%22Nicola%20Granata%22&target=VSCode&category=Themes&sortBy=Relevance):
 
 - Apophis Dark Matter
  [ this theme ]
@@ -63,10 +29,13 @@ See full [Changelog](https://marketplace.visualstudio.com/items/nicola-granata.a
 
 
 
+> From version `1.1.162` I have introduced `HCUI` version for each sub-theme in `Monolith Suite`, to attempt to solve problems with low resolution monitors.
 
-# Table of contents
-1. [Latest Changelog for Apophis Dark Matter Theme](#latest-changelog-for-apophis-dark-matter-theme)
+
+
+# Table of Contents
 1. [My Themes](#my-themes)
+1. [Latest Changelog for Apophis Dark Matter Theme](#latest-changelog-for-apophis-dark-matter-theme)
 1. [Apophis token colors based skins](#apophis-token-colors-based-skins)
 1. [Apophis Dark Matter Preview Gallery](#apophis-dark-matter-preview-gallery)
 	* [**Cold** (10 skins): Cold Gray Background and Cold Token Colors](#cold-10-skins-cold-gray-background-and-cold-token-colors)
@@ -92,12 +61,52 @@ See full [Changelog](https://marketplace.visualstudio.com/items/nicola-granata.a
 
 
 
+
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
+
+# Latest Changelog for Apophis Dark Matter Theme
+
+> Note 1: This Changelog is for the whole **Dark Matter Suite**, not just for this specific Theme.
+
+> Note 2: [`Development`] and [`UI Manager`] sections in *Changelog* are addressed to the developer to remind him of any important changes that occurred during the writing of the code and do not always concern improvements made to the extension or to the theme.
+
+
+
+**Version 1.1.184**
+- [`Development`] Fixed some problems with the `README.MD` generator in the theme Help.
+
+
+
+**Version 1.1.163**
+- [`Theme`] Fixed some colors;
+- [`Theme`] Fixed the `HCUI` (High Contrast UI) colors.
+- [`Development`] Improved GitHub commit.
+
+
+
+**Version 1.1.162**
+- [`Theme`] Introduced the `HCUI` versions (High Contrast UI) for each sub-theme of `Monolith Suite` (in `Dark Matter Suite` will be implemented in next future), for low resolution and/or high contrast monitors that, with the default theme settings, had problems of poor readability due to the transparency applied to the text and to the drop-down menus (thanks Alan Welsh!).
+
+
+
+See full [Changelog](https://marketplace.visualstudio.com/items/nicola-granata.apophis-dark-matter/changelog) for previous versions.
+
 <!--
 //# Apophis Dark Matter Theme 
 -->
 
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 # Apophis token colors based skins
 
@@ -107,239 +116,681 @@ The ultimate goal of the suite is to offer a good chance to find a theme that re
 
 However, attempts were made to leave error signals and selections clearly visible with moderate color contrasts.
 
-> Tip 1: The skins are quite similar but you can find the right color intensity based on the `sRGB` representation of your monitor and the sensitivity of your eyes to certain frequencies.
+> Tip 1: the display name of theme is as follow: the first part (e.g.: **Apophis**) is token colors name, the second (e.g.: **Dark Matter**) is the main related colors structure, the third (e.g.: **Nadir**) part of name is the background suite and UI main colors, last part (e.g.: **Viserion**) is simply the representation name for main foreground/highlights color.
 
-> Tip 2: If you like code version control and want to add PHPDoc / JSDoc (Documentor) data to your functions, try [**Version Boss**](https://marketplace.visualstudio.com/items/nicola-granata.version-boss)! `Version Boss` is a free extension that `simplifies versioning of scripting files`. Download it at [Marketplace](https://marketplace.visualstudio.com/items/nicola-granata.version-boss).
+> Tip 2: The skins are quite similar but you can find the right color intensity based on the `sRGB` representation of your monitor and the sensitivity of your eyes to certain frequencies.
+
+> Tip 3: If you like code version control and want to add PHPDoc / JSDoc (Documentor) data to your functions, try [**Version Boss**](https://marketplace.visualstudio.com/items/nicola-granata.version-boss)! `Version Boss` is a free extension that `simplifies versioning of scripting files`. Download it at [Marketplace](https://marketplace.visualstudio.com/items/nicola-granata.version-boss).
+
+> Tip 4: Please do not rely only on the preview images of this theme (they are of average quality), but try it. Especially if you work at night and for many hours, almost certainly, among all my skins, you will find the colors suitable to avoid eye strain.
 
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 # Apophis Dark Matter Preview Gallery
 
-<!--
-`Note`: This demo not contains all subset of variants, because the representation of color in GIF format is not completely faithful.
-
-![Apophis Dark Matter Demo](./_gfx/apophis-dark-matter-demo.gif)
--->
-<!--
-
-// ## Apophis Dark Matter variants descriptions
-
-| Variant | Description |
-|--- |--- |
-|`Cold`|Cold Gray Background and Cold Token Colors|
-|`Deep Sea`|Deep blue flat UI and Desatured Token Colors|
-|`Equinox`|Dark Night UI and Desatured Token Colors|
-|`Flat`|Flat Gray Background and Default Token Colos|
-|`Insomnia`|Flat Grayed UI and Satured Token Colors|
-|`Low Blue`|Low Blue Light on UI and Token Colors|
-|`Midnight`|Midnight Blue Background and Cold, Desatured Token Colors (Telegram X Midnight Theme)|
-|`Nadir`|Flat Grayed UI and Desatured Token Colors|
-|`Warm`|Warm Gray Background and Warm Token Colors|
-
-// ## Apophis Dark Matter Skins list:
-
-- `Apophis Dark Matter - Cold - Aquamarine`;
-- `Apophis Dark Matter - Cold - Black Pond Has My Heart`;
-- `Apophis Dark Matter - Cold - Komodo`;
-- `Apophis Dark Matter - Cold - Kronos`;
-- `Apophis Dark Matter - Cold - Meabh`;
-- `Apophis Dark Matter - Cold - Morion`;
-- `Apophis Dark Matter - Cold - Mystic River`;
-- `Apophis Dark Matter - Cold - Obsidian`;
-- `Apophis Dark Matter - Cold - Sulfur`;
-- `Apophis Dark Matter - Cold - Viserion`;
-- `Apophis Dark Matter - Deep Sea - Aquamarine`;
-- `Apophis Dark Matter - Deep Sea - Morion`;
-- `Apophis Dark Matter - Deep Sea - Mystic River`;
-- `Apophis Dark Matter - Deep Sea - Sulfur`;
-- `Apophis Dark Matter - Deep Sea - Viserion`;
-- `Apophis Dark Matter - Equinox - Black Pond Has My Heart`;
-- `Apophis Dark Matter - Equinox - Burn`;
-- `Apophis Dark Matter - Equinox - Komodo`;
-- `Apophis Dark Matter - Equinox - Kronos`;
-- `Apophis Dark Matter - Equinox - Meabh`;
-- `Apophis Dark Matter - Equinox - Mystic River`;
-- `Apophis Dark Matter - Equinox - Obsidian`;
-- `Apophis Dark Matter - Equinox - Viserion`;
-- `Apophis Dark Matter - Flat - Aquamarine`;
-- `Apophis Dark Matter - Flat - Black Pond Has My Heart`;
-- `Apophis Dark Matter - Flat - Komodo`;
-- `Apophis Dark Matter - Flat - Kronos`;
-- `Apophis Dark Matter - Flat - Meabh`;
-- `Apophis Dark Matter - Flat - Morion`;
-- `Apophis Dark Matter - Flat - Mystic River`;
-- `Apophis Dark Matter - Flat - Obsidian`;
-- `Apophis Dark Matter - Flat - Sulfur`;
-- `Apophis Dark Matter - Flat - Viserion`;
-- `Apophis Dark Matter - Insomnia - Black Pond Has My Heart`;
-- `Apophis Dark Matter - Insomnia - Burn`;
-- `Apophis Dark Matter - Insomnia - Komodo`;
-- `Apophis Dark Matter - Insomnia - Kronos`;
-- `Apophis Dark Matter - Insomnia - Meabh`;
-- `Apophis Dark Matter - Insomnia - Mystic River`;
-- `Apophis Dark Matter - Insomnia - Obsidian`;
-- `Apophis Dark Matter - Insomnia - Viserion`;
-- `Apophis Dark Matter - Low Blue - Obsidian`;
-- `Apophis Dark Matter - Midnight - Viserion`;
-- `Apophis Dark Matter - Nadir - Aquamarine`;
-- `Apophis Dark Matter - Nadir - Black Pond Has My Heart`;
-- `Apophis Dark Matter - Nadir - Burn`;
-- `Apophis Dark Matter - Nadir - Komodo`;
-- `Apophis Dark Matter - Nadir - Kronos`;
-- `Apophis Dark Matter - Nadir - Meabh`;
-- `Apophis Dark Matter - Nadir - Morion`;
-- `Apophis Dark Matter - Nadir - Mystic River`;
-- `Apophis Dark Matter - Nadir - Obsidian`;
-- `Apophis Dark Matter - Nadir - Sulfur`;
-- `Apophis Dark Matter - Nadir - Viserion`;
-- `Apophis Dark Matter - Warm - Aquamarine`;
-- `Apophis Dark Matter - Warm - Black Pond Has My Heart`;
-- `Apophis Dark Matter - Warm - Komodo`;
-- `Apophis Dark Matter - Warm - Kronos`;
-- `Apophis Dark Matter - Warm - Meabh`;
-- `Apophis Dark Matter - Warm - Morion`;
-- `Apophis Dark Matter - Warm - Mystic River`;
-- `Apophis Dark Matter - Warm - Obsidian`;
-- `Apophis Dark Matter - Warm - Sulfur`;
-- `Apophis Dark Matter - Warm - Viserion`.
-
--->
 
 
 
-<center><div align="center" style="margin:auto;">
-<table border="0" style="border-width:0px;border-collapse:collapse;">
-<tr><td colspan="4" align="center" valign="top" border="0">
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## **Cold** (10 skins): Cold Gray Background and Cold Token Colors
 
+<div align="center">
+
+
+
+[![Apophis Dark Matter - Cold - Komodo](./_gfx/apophis-dark-matter-cold-komodo-preview.png)](./_gfx/apophis-dark-matter-cold-komodo-preview.png)
+
+[Komodo](./_gfx/apophis-dark-matter-cold-komodo-preview.png) <br>Cold
+
+
+<table>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Cold - Aquamarine](./_gfx/apophis-dark-matter-cold-aquamarine-preview.png)](./_gfx/apophis-dark-matter-cold-aquamarine-preview.png)
+
+[Aquamarine](./_gfx/apophis-dark-matter-cold-aquamarine-preview.png) <br>Cold
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Cold - Black Pond Has My Heart](./_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png)](./_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png)
+
+[Black pond has my heart](./_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png) <br>Cold
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Cold - Kronos](./_gfx/apophis-dark-matter-cold-kronos-preview.png)](./_gfx/apophis-dark-matter-cold-kronos-preview.png)
+
+[Kronos](./_gfx/apophis-dark-matter-cold-kronos-preview.png) <br>Cold
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Cold - Meabh](./_gfx/apophis-dark-matter-cold-meabh-preview.png)](./_gfx/apophis-dark-matter-cold-meabh-preview.png)
+
+[Meabh](./_gfx/apophis-dark-matter-cold-meabh-preview.png) <br>Cold
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Cold - Morion](./_gfx/apophis-dark-matter-cold-morion-preview.png)](./_gfx/apophis-dark-matter-cold-morion-preview.png)
+
+[Morion](./_gfx/apophis-dark-matter-cold-morion-preview.png) <br>Cold
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Cold - Mystic River](./_gfx/apophis-dark-matter-cold-mystic-river-preview.png)](./_gfx/apophis-dark-matter-cold-mystic-river-preview.png)
+
+[Mystic River](./_gfx/apophis-dark-matter-cold-mystic-river-preview.png) <br>Cold
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Cold - Obsidian](./_gfx/apophis-dark-matter-cold-obsidian-preview.png)](./_gfx/apophis-dark-matter-cold-obsidian-preview.png)
+
+[Obsidian](./_gfx/apophis-dark-matter-cold-obsidian-preview.png) <br>Cold
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Cold - Sulfur](./_gfx/apophis-dark-matter-cold-sulfur-preview.png)](./_gfx/apophis-dark-matter-cold-sulfur-preview.png)
+
+[Sulfur](./_gfx/apophis-dark-matter-cold-sulfur-preview.png) <br>Cold
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Cold - Viserion](./_gfx/apophis-dark-matter-cold-viserion-preview.png)](./_gfx/apophis-dark-matter-cold-viserion-preview.png)
+
+[Viserion](./_gfx/apophis-dark-matter-cold-viserion-preview.png) <br>Cold
+</td>
+<td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
+</td><td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
+</td><td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
 </td></tr>
-<tr><td colspan="4" valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-morion-preview.png" title="Go to Apophis Dark Matter - Cold - Morion" alt="Go to Apophis Dark Matter - Cold - Morion" target="github"><img src="./_gfx/apophis-dark-matter-cold-morion-preview.png"  alt="Apophis Dark Matter - Cold - Morion"  title="Apophis Dark Matter - Cold - Morion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-morion-preview.png" title="Go to Apophis Dark Matter - Cold - Morion" alt="Go to Apophis Dark Matter - Cold - Morion" target="github">Morion</a><br>Cold</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-aquamarine-preview.png" title="Go to Apophis Dark Matter - Cold - Aquamarine" alt="Go to Apophis Dark Matter - Cold - Aquamarine" target="github"><img src="./_gfx/apophis-dark-matter-cold-aquamarine-preview.png"  alt="Apophis Dark Matter - Cold - Aquamarine"  title="Apophis Dark Matter - Cold - Aquamarine"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-aquamarine-preview.png" title="Go to Apophis Dark Matter - Cold - Aquamarine" alt="Go to Apophis Dark Matter - Cold - Aquamarine" target="github">Aquamarine</a><br>Cold</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Cold - Black Pond Has My Heart" alt="Go to Apophis Dark Matter - Cold - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Cold - Black Pond Has My Heart"  title="Apophis Dark Matter - Cold - Black Pond Has My Heart"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Cold - Black Pond Has My Heart" alt="Go to Apophis Dark Matter - Cold - Black Pond Has My Heart" target="github">Black pond has my heart</a><br>Cold</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-komodo-preview.png" title="Go to Apophis Dark Matter - Cold - Komodo" alt="Go to Apophis Dark Matter - Cold - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-cold-komodo-preview.png"  alt="Apophis Dark Matter - Cold - Komodo"  title="Apophis Dark Matter - Cold - Komodo"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-komodo-preview.png" title="Go to Apophis Dark Matter - Cold - Komodo" alt="Go to Apophis Dark Matter - Cold - Komodo" target="github">Komodo</a><br>Cold</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-kronos-preview.png" title="Go to Apophis Dark Matter - Cold - Kronos" alt="Go to Apophis Dark Matter - Cold - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-cold-kronos-preview.png"  alt="Apophis Dark Matter - Cold - Kronos"  title="Apophis Dark Matter - Cold - Kronos"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-kronos-preview.png" title="Go to Apophis Dark Matter - Cold - Kronos" alt="Go to Apophis Dark Matter - Cold - Kronos" target="github">Kronos</a><br>Cold</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-meabh-preview.png" title="Go to Apophis Dark Matter - Cold - Meabh" alt="Go to Apophis Dark Matter - Cold - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-cold-meabh-preview.png"  alt="Apophis Dark Matter - Cold - Meabh"  title="Apophis Dark Matter - Cold - Meabh"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-meabh-preview.png" title="Go to Apophis Dark Matter - Cold - Meabh" alt="Go to Apophis Dark Matter - Cold - Meabh" target="github">Meabh</a><br>Cold</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-mystic-river-preview.png" title="Go to Apophis Dark Matter - Cold - Mystic River" alt="Go to Apophis Dark Matter - Cold - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-cold-mystic-river-preview.png"  alt="Apophis Dark Matter - Cold - Mystic River"  title="Apophis Dark Matter - Cold - Mystic River"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-mystic-river-preview.png" title="Go to Apophis Dark Matter - Cold - Mystic River" alt="Go to Apophis Dark Matter - Cold - Mystic River" target="github">Mystic River</a><br>Cold</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-obsidian-preview.png" title="Go to Apophis Dark Matter - Cold - Obsidian" alt="Go to Apophis Dark Matter - Cold - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-cold-obsidian-preview.png"  alt="Apophis Dark Matter - Cold - Obsidian"  title="Apophis Dark Matter - Cold - Obsidian"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-obsidian-preview.png" title="Go to Apophis Dark Matter - Cold - Obsidian" alt="Go to Apophis Dark Matter - Cold - Obsidian" target="github">Obsidian</a><br>Cold</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-sulfur-preview.png" title="Go to Apophis Dark Matter - Cold - Sulfur" alt="Go to Apophis Dark Matter - Cold - Sulfur" target="github"><img src="./_gfx/apophis-dark-matter-cold-sulfur-preview.png"  alt="Apophis Dark Matter - Cold - Sulfur"  title="Apophis Dark Matter - Cold - Sulfur"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-sulfur-preview.png" title="Go to Apophis Dark Matter - Cold - Sulfur" alt="Go to Apophis Dark Matter - Cold - Sulfur" target="github">Sulfur</a><br>Cold</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-viserion-preview.png" title="Go to Apophis Dark Matter - Cold - Viserion" alt="Go to Apophis Dark Matter - Cold - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-cold-viserion-preview.png"  alt="Apophis Dark Matter - Cold - Viserion"  title="Apophis Dark Matter - Cold - Viserion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-cold-viserion-preview.png" title="Go to Apophis Dark Matter - Cold - Viserion" alt="Go to Apophis Dark Matter - Cold - Viserion" target="github">Viserion</a><br>Cold</div></td><td valign="top">&nbsp;</td><td valign="top">&nbsp;</td><td valign="top">&nbsp;</td></tr>
 
-<tr><td colspan="4" align="center" valign="top" border="0">
+</table>
+</div>
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## **Deep Sea** (5 skins): Deep blue flat UI and Desatured Token Colors
 
-</td></tr>
-<tr><td colspan="4" valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-deepsea-viserion-preview.png" title="Go to Apophis Dark Matter - Deep Sea - Viserion" alt="Go to Apophis Dark Matter - Deep Sea - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-deepsea-viserion-preview.png"  alt="Apophis Dark Matter - Deep Sea - Viserion"  title="Apophis Dark Matter - Deep Sea - Viserion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-deepsea-viserion-preview.png" title="Go to Apophis Dark Matter - Deep Sea - Viserion" alt="Go to Apophis Dark Matter - Deep Sea - Viserion" target="github">Viserion</a><br>Deep Sea</div></td></tr>
+<div align="center">
+
+
+
+[![Apophis Dark Matter - Deep Sea - Sulfur](./_gfx/apophis-dark-matter-deepsea-sulfur-preview.png)](./_gfx/apophis-dark-matter-deepsea-sulfur-preview.png)
+
+[Sulfur](./_gfx/apophis-dark-matter-deepsea-sulfur-preview.png) <br>Deep Sea
+
+
+<table>
 <tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-deepsea-aquamarine-preview.png" title="Go to Apophis Dark Matter - Deep Sea - Aquamarine" alt="Go to Apophis Dark Matter - Deep Sea - Aquamarine" target="github"><img src="./_gfx/apophis-dark-matter-deepsea-aquamarine-preview.png"  alt="Apophis Dark Matter - Deep Sea - Aquamarine"  title="Apophis Dark Matter - Deep Sea - Aquamarine"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-deepsea-aquamarine-preview.png" title="Go to Apophis Dark Matter - Deep Sea - Aquamarine" alt="Go to Apophis Dark Matter - Deep Sea - Aquamarine" target="github">Aquamarine</a><br>Deep Sea</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-deepsea-morion-preview.png" title="Go to Apophis Dark Matter - Deep Sea - Morion" alt="Go to Apophis Dark Matter - Deep Sea - Morion" target="github"><img src="./_gfx/apophis-dark-matter-deepsea-morion-preview.png"  alt="Apophis Dark Matter - Deep Sea - Morion"  title="Apophis Dark Matter - Deep Sea - Morion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-deepsea-morion-preview.png" title="Go to Apophis Dark Matter - Deep Sea - Morion" alt="Go to Apophis Dark Matter - Deep Sea - Morion" target="github">Morion</a><br>Deep Sea</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-deepsea-mystic-river-preview.png" title="Go to Apophis Dark Matter - Deep Sea - Mystic River" alt="Go to Apophis Dark Matter - Deep Sea - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-deepsea-mystic-river-preview.png"  alt="Apophis Dark Matter - Deep Sea - Mystic River"  title="Apophis Dark Matter - Deep Sea - Mystic River"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-deepsea-mystic-river-preview.png" title="Go to Apophis Dark Matter - Deep Sea - Mystic River" alt="Go to Apophis Dark Matter - Deep Sea - Mystic River" target="github">Mystic River</a><br>Deep Sea</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-deepsea-sulfur-preview.png" title="Go to Apophis Dark Matter - Deep Sea - Sulfur" alt="Go to Apophis Dark Matter - Deep Sea - Sulfur" target="github"><img src="./_gfx/apophis-dark-matter-deepsea-sulfur-preview.png"  alt="Apophis Dark Matter - Deep Sea - Sulfur"  title="Apophis Dark Matter - Deep Sea - Sulfur"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-deepsea-sulfur-preview.png" title="Go to Apophis Dark Matter - Deep Sea - Sulfur" alt="Go to Apophis Dark Matter - Deep Sea - Sulfur" target="github">Sulfur</a><br>Deep Sea</div></td></tr>
+<td align="center" valign="top" >
 
-<tr><td colspan="4" align="center" valign="top" border="0">
+[![Apophis Dark Matter - Deep Sea - Aquamarine](./_gfx/apophis-dark-matter-deepsea-aquamarine-preview.png)](./_gfx/apophis-dark-matter-deepsea-aquamarine-preview.png)
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+[Aquamarine](./_gfx/apophis-dark-matter-deepsea-aquamarine-preview.png) <br>Deep Sea
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Deep Sea - Morion](./_gfx/apophis-dark-matter-deepsea-morion-preview.png)](./_gfx/apophis-dark-matter-deepsea-morion-preview.png)
+
+[Morion](./_gfx/apophis-dark-matter-deepsea-morion-preview.png) <br>Deep Sea
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Deep Sea - Mystic River](./_gfx/apophis-dark-matter-deepsea-mystic-river-preview.png)](./_gfx/apophis-dark-matter-deepsea-mystic-river-preview.png)
+
+[Mystic River](./_gfx/apophis-dark-matter-deepsea-mystic-river-preview.png) <br>Deep Sea
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Deep Sea - Viserion](./_gfx/apophis-dark-matter-deepsea-viserion-preview.png)](./_gfx/apophis-dark-matter-deepsea-viserion-preview.png)
+
+[Viserion](./_gfx/apophis-dark-matter-deepsea-viserion-preview.png) <br>Deep Sea
+</td>
+</tr>
+
+</table>
+</div>
+
+
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## **Equinox** (8 skins): Dark Night UI and Desatured Token Colors
 
+<div align="center">
+
+
+
+[![Apophis Dark Matter - Equinox - Komodo](./_gfx/apophis-dark-matter-equinox-komodo-preview.png)](./_gfx/apophis-dark-matter-equinox-komodo-preview.png)
+
+[Komodo](./_gfx/apophis-dark-matter-equinox-komodo-preview.png) <br>Equinox
+
+
+<table>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Equinox - Black Pond Has My Heart](./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png)](./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png)
+
+[Black pond has my heart](./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png) <br>Equinox
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Equinox - Burn](./_gfx/apophis-dark-matter-equinox-burn-preview.png)](./_gfx/apophis-dark-matter-equinox-burn-preview.png)
+
+[Burn](./_gfx/apophis-dark-matter-equinox-burn-preview.png) <br>Equinox
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Equinox - Kronos](./_gfx/apophis-dark-matter-equinox-kronos-preview.png)](./_gfx/apophis-dark-matter-equinox-kronos-preview.png)
+
+[Kronos](./_gfx/apophis-dark-matter-equinox-kronos-preview.png) <br>Equinox
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Equinox - Meabh](./_gfx/apophis-dark-matter-equinox-meabh-preview.png)](./_gfx/apophis-dark-matter-equinox-meabh-preview.png)
+
+[Meabh](./_gfx/apophis-dark-matter-equinox-meabh-preview.png) <br>Equinox
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Equinox - Mystic River](./_gfx/apophis-dark-matter-equinox-mystic-river-preview.png)](./_gfx/apophis-dark-matter-equinox-mystic-river-preview.png)
+
+[Mystic River](./_gfx/apophis-dark-matter-equinox-mystic-river-preview.png) <br>Equinox
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Equinox - Obsidian](./_gfx/apophis-dark-matter-equinox-obsidian-preview.png)](./_gfx/apophis-dark-matter-equinox-obsidian-preview.png)
+
+[Obsidian](./_gfx/apophis-dark-matter-equinox-obsidian-preview.png) <br>Equinox
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Equinox - Viserion](./_gfx/apophis-dark-matter-equinox-viserion-preview.png)](./_gfx/apophis-dark-matter-equinox-viserion-preview.png)
+
+[Viserion](./_gfx/apophis-dark-matter-equinox-viserion-preview.png) <br>Equinox
+</td>
+<td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
 </td></tr>
-<tr><td colspan="4" valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-viserion-preview.png" title="Go to Apophis Dark Matter - Equinox - Viserion" alt="Go to Apophis Dark Matter - Equinox - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-equinox-viserion-preview.png"  alt="Apophis Dark Matter - Equinox - Viserion"  title="Apophis Dark Matter - Equinox - Viserion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-viserion-preview.png" title="Go to Apophis Dark Matter - Equinox - Viserion" alt="Go to Apophis Dark Matter - Equinox - Viserion" target="github">Viserion</a><br>Equinox</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Equinox - Black Pond Has My Heart" alt="Go to Apophis Dark Matter - Equinox - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Equinox - Black Pond Has My Heart"  title="Apophis Dark Matter - Equinox - Black Pond Has My Heart"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Equinox - Black Pond Has My Heart" alt="Go to Apophis Dark Matter - Equinox - Black Pond Has My Heart" target="github">Black pond has my heart</a><br>Equinox</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-burn-preview.png" title="Go to Apophis Dark Matter - Equinox - Burn" alt="Go to Apophis Dark Matter - Equinox - Burn" target="github"><img src="./_gfx/apophis-dark-matter-equinox-burn-preview.png"  alt="Apophis Dark Matter - Equinox - Burn"  title="Apophis Dark Matter - Equinox - Burn"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-burn-preview.png" title="Go to Apophis Dark Matter - Equinox - Burn" alt="Go to Apophis Dark Matter - Equinox - Burn" target="github">Burn</a><br>Equinox</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-komodo-preview.png" title="Go to Apophis Dark Matter - Equinox - Komodo" alt="Go to Apophis Dark Matter - Equinox - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-equinox-komodo-preview.png"  alt="Apophis Dark Matter - Equinox - Komodo"  title="Apophis Dark Matter - Equinox - Komodo"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-komodo-preview.png" title="Go to Apophis Dark Matter - Equinox - Komodo" alt="Go to Apophis Dark Matter - Equinox - Komodo" target="github">Komodo</a><br>Equinox</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-kronos-preview.png" title="Go to Apophis Dark Matter - Equinox - Kronos" alt="Go to Apophis Dark Matter - Equinox - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-equinox-kronos-preview.png"  alt="Apophis Dark Matter - Equinox - Kronos"  title="Apophis Dark Matter - Equinox - Kronos"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-kronos-preview.png" title="Go to Apophis Dark Matter - Equinox - Kronos" alt="Go to Apophis Dark Matter - Equinox - Kronos" target="github">Kronos</a><br>Equinox</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-meabh-preview.png" title="Go to Apophis Dark Matter - Equinox - Meabh" alt="Go to Apophis Dark Matter - Equinox - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-equinox-meabh-preview.png"  alt="Apophis Dark Matter - Equinox - Meabh"  title="Apophis Dark Matter - Equinox - Meabh"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-meabh-preview.png" title="Go to Apophis Dark Matter - Equinox - Meabh" alt="Go to Apophis Dark Matter - Equinox - Meabh" target="github">Meabh</a><br>Equinox</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-mystic-river-preview.png" title="Go to Apophis Dark Matter - Equinox - Mystic River" alt="Go to Apophis Dark Matter - Equinox - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-equinox-mystic-river-preview.png"  alt="Apophis Dark Matter - Equinox - Mystic River"  title="Apophis Dark Matter - Equinox - Mystic River"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-mystic-river-preview.png" title="Go to Apophis Dark Matter - Equinox - Mystic River" alt="Go to Apophis Dark Matter - Equinox - Mystic River" target="github">Mystic River</a><br>Equinox</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-obsidian-preview.png" title="Go to Apophis Dark Matter - Equinox - Obsidian" alt="Go to Apophis Dark Matter - Equinox - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-equinox-obsidian-preview.png"  alt="Apophis Dark Matter - Equinox - Obsidian"  title="Apophis Dark Matter - Equinox - Obsidian"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-equinox-obsidian-preview.png" title="Go to Apophis Dark Matter - Equinox - Obsidian" alt="Go to Apophis Dark Matter - Equinox - Obsidian" target="github">Obsidian</a><br>Equinox</div></td><td valign="top">&nbsp;</td></tr>
 
-<tr><td colspan="4" align="center" valign="top" border="0">
+</table>
+</div>
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## **Flat** (10 skins): Flat Gray Background and Default Token Colos
 
+<div align="center">
+
+
+
+[![Apophis Dark Matter - Flat - Viserion](./_gfx/apophis-dark-matter-flat-viserion-preview.png)](./_gfx/apophis-dark-matter-flat-viserion-preview.png)
+
+[Viserion](./_gfx/apophis-dark-matter-flat-viserion-preview.png) <br>Flat
+
+
+<table>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Flat - Aquamarine](./_gfx/apophis-dark-matter-flat-aquamarine-preview.png)](./_gfx/apophis-dark-matter-flat-aquamarine-preview.png)
+
+[Aquamarine](./_gfx/apophis-dark-matter-flat-aquamarine-preview.png) <br>Flat
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Flat - Black Pond Has My Heart](./_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png)](./_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png)
+
+[Black pond has my heart](./_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png) <br>Flat
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Flat - Komodo](./_gfx/apophis-dark-matter-flat-komodo-preview.png)](./_gfx/apophis-dark-matter-flat-komodo-preview.png)
+
+[Komodo](./_gfx/apophis-dark-matter-flat-komodo-preview.png) <br>Flat
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Flat - Kronos](./_gfx/apophis-dark-matter-flat-kronos-preview.png)](./_gfx/apophis-dark-matter-flat-kronos-preview.png)
+
+[Kronos](./_gfx/apophis-dark-matter-flat-kronos-preview.png) <br>Flat
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Flat - Meabh](./_gfx/apophis-dark-matter-flat-meabh-preview.png)](./_gfx/apophis-dark-matter-flat-meabh-preview.png)
+
+[Meabh](./_gfx/apophis-dark-matter-flat-meabh-preview.png) <br>Flat
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Flat - Morion](./_gfx/apophis-dark-matter-flat-morion-preview.png)](./_gfx/apophis-dark-matter-flat-morion-preview.png)
+
+[Morion](./_gfx/apophis-dark-matter-flat-morion-preview.png) <br>Flat
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Flat - Mystic River](./_gfx/apophis-dark-matter-flat-mystic-river-preview.png)](./_gfx/apophis-dark-matter-flat-mystic-river-preview.png)
+
+[Mystic River](./_gfx/apophis-dark-matter-flat-mystic-river-preview.png) <br>Flat
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Flat - Obsidian](./_gfx/apophis-dark-matter-flat-obsidian-preview.png)](./_gfx/apophis-dark-matter-flat-obsidian-preview.png)
+
+[Obsidian](./_gfx/apophis-dark-matter-flat-obsidian-preview.png) <br>Flat
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Flat - Sulfur](./_gfx/apophis-dark-matter-flat-sulfur-preview.png)](./_gfx/apophis-dark-matter-flat-sulfur-preview.png)
+
+[Sulfur](./_gfx/apophis-dark-matter-flat-sulfur-preview.png) <br>Flat
+</td>
+<td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
+</td><td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
+</td><td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
 </td></tr>
-<tr><td colspan="4" valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-obsidian-preview.png" title="Go to Apophis Dark Matter - Flat - Obsidian" alt="Go to Apophis Dark Matter - Flat - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-flat-obsidian-preview.png"  alt="Apophis Dark Matter - Flat - Obsidian"  title="Apophis Dark Matter - Flat - Obsidian"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-obsidian-preview.png" title="Go to Apophis Dark Matter - Flat - Obsidian" alt="Go to Apophis Dark Matter - Flat - Obsidian" target="github">Obsidian</a><br>Flat</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-aquamarine-preview.png" title="Go to Apophis Dark Matter - Flat - Aquamarine" alt="Go to Apophis Dark Matter - Flat - Aquamarine" target="github"><img src="./_gfx/apophis-dark-matter-flat-aquamarine-preview.png"  alt="Apophis Dark Matter - Flat - Aquamarine"  title="Apophis Dark Matter - Flat - Aquamarine"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-aquamarine-preview.png" title="Go to Apophis Dark Matter - Flat - Aquamarine" alt="Go to Apophis Dark Matter - Flat - Aquamarine" target="github">Aquamarine</a><br>Flat</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Flat - Black Pond Has My Heart" alt="Go to Apophis Dark Matter - Flat - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Flat - Black Pond Has My Heart"  title="Apophis Dark Matter - Flat - Black Pond Has My Heart"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Flat - Black Pond Has My Heart" alt="Go to Apophis Dark Matter - Flat - Black Pond Has My Heart" target="github">Black pond has my heart</a><br>Flat</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-komodo-preview.png" title="Go to Apophis Dark Matter - Flat - Komodo" alt="Go to Apophis Dark Matter - Flat - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-flat-komodo-preview.png"  alt="Apophis Dark Matter - Flat - Komodo"  title="Apophis Dark Matter - Flat - Komodo"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-komodo-preview.png" title="Go to Apophis Dark Matter - Flat - Komodo" alt="Go to Apophis Dark Matter - Flat - Komodo" target="github">Komodo</a><br>Flat</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-kronos-preview.png" title="Go to Apophis Dark Matter - Flat - Kronos" alt="Go to Apophis Dark Matter - Flat - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-flat-kronos-preview.png"  alt="Apophis Dark Matter - Flat - Kronos"  title="Apophis Dark Matter - Flat - Kronos"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-kronos-preview.png" title="Go to Apophis Dark Matter - Flat - Kronos" alt="Go to Apophis Dark Matter - Flat - Kronos" target="github">Kronos</a><br>Flat</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-meabh-preview.png" title="Go to Apophis Dark Matter - Flat - Meabh" alt="Go to Apophis Dark Matter - Flat - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-flat-meabh-preview.png"  alt="Apophis Dark Matter - Flat - Meabh"  title="Apophis Dark Matter - Flat - Meabh"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-meabh-preview.png" title="Go to Apophis Dark Matter - Flat - Meabh" alt="Go to Apophis Dark Matter - Flat - Meabh" target="github">Meabh</a><br>Flat</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-morion-preview.png" title="Go to Apophis Dark Matter - Flat - Morion" alt="Go to Apophis Dark Matter - Flat - Morion" target="github"><img src="./_gfx/apophis-dark-matter-flat-morion-preview.png"  alt="Apophis Dark Matter - Flat - Morion"  title="Apophis Dark Matter - Flat - Morion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-morion-preview.png" title="Go to Apophis Dark Matter - Flat - Morion" alt="Go to Apophis Dark Matter - Flat - Morion" target="github">Morion</a><br>Flat</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-mystic-river-preview.png" title="Go to Apophis Dark Matter - Flat - Mystic River" alt="Go to Apophis Dark Matter - Flat - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-flat-mystic-river-preview.png"  alt="Apophis Dark Matter - Flat - Mystic River"  title="Apophis Dark Matter - Flat - Mystic River"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-mystic-river-preview.png" title="Go to Apophis Dark Matter - Flat - Mystic River" alt="Go to Apophis Dark Matter - Flat - Mystic River" target="github">Mystic River</a><br>Flat</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-sulfur-preview.png" title="Go to Apophis Dark Matter - Flat - Sulfur" alt="Go to Apophis Dark Matter - Flat - Sulfur" target="github"><img src="./_gfx/apophis-dark-matter-flat-sulfur-preview.png"  alt="Apophis Dark Matter - Flat - Sulfur"  title="Apophis Dark Matter - Flat - Sulfur"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-sulfur-preview.png" title="Go to Apophis Dark Matter - Flat - Sulfur" alt="Go to Apophis Dark Matter - Flat - Sulfur" target="github">Sulfur</a><br>Flat</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-viserion-preview.png" title="Go to Apophis Dark Matter - Flat - Viserion" alt="Go to Apophis Dark Matter - Flat - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-flat-viserion-preview.png"  alt="Apophis Dark Matter - Flat - Viserion"  title="Apophis Dark Matter - Flat - Viserion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-flat-viserion-preview.png" title="Go to Apophis Dark Matter - Flat - Viserion" alt="Go to Apophis Dark Matter - Flat - Viserion" target="github">Viserion</a><br>Flat</div></td><td valign="top">&nbsp;</td><td valign="top">&nbsp;</td><td valign="top">&nbsp;</td></tr>
 
-<tr><td colspan="4" align="center" valign="top" border="0">
+</table>
+</div>
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## **Insomnia** (8 skins): Flat Grayed UI and Satured Token Colors
 
+<div align="center">
+
+
+
+[![Apophis Dark Matter - Insomnia - Mystic River](./_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png)](./_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png)
+
+[Mystic River](./_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png) <br>Insomnia
+
+
+<table>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Insomnia - Black Pond Has My Heart](./_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png)](./_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png)
+
+[Black pond has my heart](./_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png) <br>Insomnia
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Insomnia - Burn](./_gfx/apophis-dark-matter-insomnia-burn-preview.png)](./_gfx/apophis-dark-matter-insomnia-burn-preview.png)
+
+[Burn](./_gfx/apophis-dark-matter-insomnia-burn-preview.png) <br>Insomnia
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Insomnia - Komodo](./_gfx/apophis-dark-matter-insomnia-komodo-preview.png)](./_gfx/apophis-dark-matter-insomnia-komodo-preview.png)
+
+[Komodo](./_gfx/apophis-dark-matter-insomnia-komodo-preview.png) <br>Insomnia
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Insomnia - Kronos](./_gfx/apophis-dark-matter-insomnia-kronos-preview.png)](./_gfx/apophis-dark-matter-insomnia-kronos-preview.png)
+
+[Kronos](./_gfx/apophis-dark-matter-insomnia-kronos-preview.png) <br>Insomnia
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Insomnia - Meabh](./_gfx/apophis-dark-matter-insomnia-meabh-preview.png)](./_gfx/apophis-dark-matter-insomnia-meabh-preview.png)
+
+[Meabh](./_gfx/apophis-dark-matter-insomnia-meabh-preview.png) <br>Insomnia
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Insomnia - Obsidian](./_gfx/apophis-dark-matter-insomnia-obsidian-preview.png)](./_gfx/apophis-dark-matter-insomnia-obsidian-preview.png)
+
+[Obsidian](./_gfx/apophis-dark-matter-insomnia-obsidian-preview.png) <br>Insomnia
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Insomnia - Viserion](./_gfx/apophis-dark-matter-insomnia-viserion-preview.png)](./_gfx/apophis-dark-matter-insomnia-viserion-preview.png)
+
+[Viserion](./_gfx/apophis-dark-matter-insomnia-viserion-preview.png) <br>Insomnia
+</td>
+<td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
 </td></tr>
-<tr><td colspan="4" valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png" title="Go to Apophis Dark Matter - Insomnia - Mystic River" alt="Go to Apophis Dark Matter - Insomnia - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png"  alt="Apophis Dark Matter - Insomnia - Mystic River"  title="Apophis Dark Matter - Insomnia - Mystic River"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png" title="Go to Apophis Dark Matter - Insomnia - Mystic River" alt="Go to Apophis Dark Matter - Insomnia - Mystic River" target="github">Mystic River</a><br>Insomnia</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Insomnia - Black Pond Has My Heart" alt="Go to Apophis Dark Matter - Insomnia - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Insomnia - Black Pond Has My Heart"  title="Apophis Dark Matter - Insomnia - Black Pond Has My Heart"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Insomnia - Black Pond Has My Heart" alt="Go to Apophis Dark Matter - Insomnia - Black Pond Has My Heart" target="github">Black pond has my heart</a><br>Insomnia</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-burn-preview.png" title="Go to Apophis Dark Matter - Insomnia - Burn" alt="Go to Apophis Dark Matter - Insomnia - Burn" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-burn-preview.png"  alt="Apophis Dark Matter - Insomnia - Burn"  title="Apophis Dark Matter - Insomnia - Burn"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-burn-preview.png" title="Go to Apophis Dark Matter - Insomnia - Burn" alt="Go to Apophis Dark Matter - Insomnia - Burn" target="github">Burn</a><br>Insomnia</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-komodo-preview.png" title="Go to Apophis Dark Matter - Insomnia - Komodo" alt="Go to Apophis Dark Matter - Insomnia - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-komodo-preview.png"  alt="Apophis Dark Matter - Insomnia - Komodo"  title="Apophis Dark Matter - Insomnia - Komodo"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-komodo-preview.png" title="Go to Apophis Dark Matter - Insomnia - Komodo" alt="Go to Apophis Dark Matter - Insomnia - Komodo" target="github">Komodo</a><br>Insomnia</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-kronos-preview.png" title="Go to Apophis Dark Matter - Insomnia - Kronos" alt="Go to Apophis Dark Matter - Insomnia - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-kronos-preview.png"  alt="Apophis Dark Matter - Insomnia - Kronos"  title="Apophis Dark Matter - Insomnia - Kronos"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-kronos-preview.png" title="Go to Apophis Dark Matter - Insomnia - Kronos" alt="Go to Apophis Dark Matter - Insomnia - Kronos" target="github">Kronos</a><br>Insomnia</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-meabh-preview.png" title="Go to Apophis Dark Matter - Insomnia - Meabh" alt="Go to Apophis Dark Matter - Insomnia - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-meabh-preview.png"  alt="Apophis Dark Matter - Insomnia - Meabh"  title="Apophis Dark Matter - Insomnia - Meabh"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-meabh-preview.png" title="Go to Apophis Dark Matter - Insomnia - Meabh" alt="Go to Apophis Dark Matter - Insomnia - Meabh" target="github">Meabh</a><br>Insomnia</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-obsidian-preview.png" title="Go to Apophis Dark Matter - Insomnia - Obsidian" alt="Go to Apophis Dark Matter - Insomnia - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-obsidian-preview.png"  alt="Apophis Dark Matter - Insomnia - Obsidian"  title="Apophis Dark Matter - Insomnia - Obsidian"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-obsidian-preview.png" title="Go to Apophis Dark Matter - Insomnia - Obsidian" alt="Go to Apophis Dark Matter - Insomnia - Obsidian" target="github">Obsidian</a><br>Insomnia</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-viserion-preview.png" title="Go to Apophis Dark Matter - Insomnia - Viserion" alt="Go to Apophis Dark Matter - Insomnia - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-insomnia-viserion-preview.png"  alt="Apophis Dark Matter - Insomnia - Viserion"  title="Apophis Dark Matter - Insomnia - Viserion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-insomnia-viserion-preview.png" title="Go to Apophis Dark Matter - Insomnia - Viserion" alt="Go to Apophis Dark Matter - Insomnia - Viserion" target="github">Viserion</a><br>Insomnia</div></td><td valign="top">&nbsp;</td></tr>
 
-<tr><td colspan="4" align="center" valign="top" border="0">
+</table>
+</div>
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## **Low Blue** (1 skin): Low Blue Light on UI and Token Colors
 
-</td></tr>
-<tr><td colspan="4" valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-lowblue-obsidian-preview.png" title="Go to Apophis Dark Matter - Low Blue - Obsidian" alt="Go to Apophis Dark Matter - Low Blue - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-lowblue-obsidian-preview.png"  alt="Apophis Dark Matter - Low Blue - Obsidian"  title="Apophis Dark Matter - Low Blue - Obsidian"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-lowblue-obsidian-preview.png" title="Go to Apophis Dark Matter - Low Blue - Obsidian" alt="Go to Apophis Dark Matter - Low Blue - Obsidian" target="github">Obsidian</a><br>Low Blue</div></td></tr>
+<div align="center">
 
-<tr><td colspan="4" align="center" valign="top" border="0">
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+[![Apophis Dark Matter - Low Blue - Obsidian](./_gfx/apophis-dark-matter-lowblue-obsidian-preview.png)](./_gfx/apophis-dark-matter-lowblue-obsidian-preview.png)
+
+[Obsidian](./_gfx/apophis-dark-matter-lowblue-obsidian-preview.png) <br>Low Blue
+
+
+<table>
+
+</table>
+</div>
+
+
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## **Midnight** (1 skin): Midnight Blue Background and Cold, Desatured Token Colors (Telegram X Midnight Theme)
 
-</td></tr>
-<tr><td colspan="4" valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-midnight-viserion-preview.png" title="Go to Apophis Dark Matter - Midnight - Viserion" alt="Go to Apophis Dark Matter - Midnight - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-midnight-viserion-preview.png"  alt="Apophis Dark Matter - Midnight - Viserion"  title="Apophis Dark Matter - Midnight - Viserion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-midnight-viserion-preview.png" title="Go to Apophis Dark Matter - Midnight - Viserion" alt="Go to Apophis Dark Matter - Midnight - Viserion" target="github">Viserion</a><br>Midnight</div></td></tr>
+<div align="center">
 
-<tr><td colspan="4" align="center" valign="top" border="0">
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+[![Apophis Dark Matter - Midnight - Viserion](./_gfx/apophis-dark-matter-midnight-viserion-preview.png)](./_gfx/apophis-dark-matter-midnight-viserion-preview.png)
+
+[Viserion](./_gfx/apophis-dark-matter-midnight-viserion-preview.png) <br>Midnight
+
+
+<table>
+
+</table>
+</div>
+
+
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## **Nadir** (11 skins): Flat Grayed UI and Desatured Token Colors
 
+<div align="center">
+
+
+
+[![Apophis Dark Matter - Nadir - Meabh](./_gfx/apophis-dark-matter-nadir-meabh-preview.png)](./_gfx/apophis-dark-matter-nadir-meabh-preview.png)
+
+[Meabh](./_gfx/apophis-dark-matter-nadir-meabh-preview.png) <br>Nadir
+
+
+<table>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Nadir - Aquamarine](./_gfx/apophis-dark-matter-nadir-aquamarine-preview.png)](./_gfx/apophis-dark-matter-nadir-aquamarine-preview.png)
+
+[Aquamarine](./_gfx/apophis-dark-matter-nadir-aquamarine-preview.png) <br>Nadir
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Nadir - Black Pond Has My Heart](./_gfx/apophis-dark-matter-nadir-black-pond-has-my-heart-preview.png)](./_gfx/apophis-dark-matter-nadir-black-pond-has-my-heart-preview.png)
+
+[Black pond has my heart](./_gfx/apophis-dark-matter-nadir-black-pond-has-my-heart-preview.png) <br>Nadir
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Nadir - Burn](./_gfx/apophis-dark-matter-nadir-burn-preview.png)](./_gfx/apophis-dark-matter-nadir-burn-preview.png)
+
+[Burn](./_gfx/apophis-dark-matter-nadir-burn-preview.png) <br>Nadir
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Nadir - Komodo](./_gfx/apophis-dark-matter-nadir-komodo-preview.png)](./_gfx/apophis-dark-matter-nadir-komodo-preview.png)
+
+[Komodo](./_gfx/apophis-dark-matter-nadir-komodo-preview.png) <br>Nadir
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Nadir - Kronos](./_gfx/apophis-dark-matter-nadir-kronos-preview.png)](./_gfx/apophis-dark-matter-nadir-kronos-preview.png)
+
+[Kronos](./_gfx/apophis-dark-matter-nadir-kronos-preview.png) <br>Nadir
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Nadir - Morion](./_gfx/apophis-dark-matter-nadir-morion-preview.png)](./_gfx/apophis-dark-matter-nadir-morion-preview.png)
+
+[Morion](./_gfx/apophis-dark-matter-nadir-morion-preview.png) <br>Nadir
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Nadir - Mystic River](./_gfx/apophis-dark-matter-nadir-mystic-river-preview.png)](./_gfx/apophis-dark-matter-nadir-mystic-river-preview.png)
+
+[Mystic River](./_gfx/apophis-dark-matter-nadir-mystic-river-preview.png) <br>Nadir
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Nadir - Obsidian](./_gfx/apophis-dark-matter-nadir-obsidian-preview.png)](./_gfx/apophis-dark-matter-nadir-obsidian-preview.png)
+
+[Obsidian](./_gfx/apophis-dark-matter-nadir-obsidian-preview.png) <br>Nadir
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Nadir - Sulfur](./_gfx/apophis-dark-matter-nadir-sulfur-preview.png)](./_gfx/apophis-dark-matter-nadir-sulfur-preview.png)
+
+[Sulfur](./_gfx/apophis-dark-matter-nadir-sulfur-preview.png) <br>Nadir
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Nadir - Viserion](./_gfx/apophis-dark-matter-nadir-viserion-preview.png)](./_gfx/apophis-dark-matter-nadir-viserion-preview.png)
+
+[Viserion](./_gfx/apophis-dark-matter-nadir-viserion-preview.png) <br>Nadir
+</td>
+<td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
+</td><td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
 </td></tr>
-<tr><td colspan="4" valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-morion-preview.png" title="Go to Apophis Dark Matter - Nadir - Morion" alt="Go to Apophis Dark Matter - Nadir - Morion" target="github"><img src="./_gfx/apophis-dark-matter-nadir-morion-preview.png"  alt="Apophis Dark Matter - Nadir - Morion"  title="Apophis Dark Matter - Nadir - Morion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-morion-preview.png" title="Go to Apophis Dark Matter - Nadir - Morion" alt="Go to Apophis Dark Matter - Nadir - Morion" target="github">Morion</a><br>Nadir</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-aquamarine-preview.png" title="Go to Apophis Dark Matter - Nadir - Aquamarine" alt="Go to Apophis Dark Matter - Nadir - Aquamarine" target="github"><img src="./_gfx/apophis-dark-matter-nadir-aquamarine-preview.png"  alt="Apophis Dark Matter - Nadir - Aquamarine"  title="Apophis Dark Matter - Nadir - Aquamarine"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-aquamarine-preview.png" title="Go to Apophis Dark Matter - Nadir - Aquamarine" alt="Go to Apophis Dark Matter - Nadir - Aquamarine" target="github">Aquamarine</a><br>Nadir</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Nadir - Black Pond Has My Heart" alt="Go to Apophis Dark Matter - Nadir - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-nadir-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Nadir - Black Pond Has My Heart"  title="Apophis Dark Matter - Nadir - Black Pond Has My Heart"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Nadir - Black Pond Has My Heart" alt="Go to Apophis Dark Matter - Nadir - Black Pond Has My Heart" target="github">Black pond has my heart</a><br>Nadir</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-burn-preview.png" title="Go to Apophis Dark Matter - Nadir - Burn" alt="Go to Apophis Dark Matter - Nadir - Burn" target="github"><img src="./_gfx/apophis-dark-matter-nadir-burn-preview.png"  alt="Apophis Dark Matter - Nadir - Burn"  title="Apophis Dark Matter - Nadir - Burn"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-burn-preview.png" title="Go to Apophis Dark Matter - Nadir - Burn" alt="Go to Apophis Dark Matter - Nadir - Burn" target="github">Burn</a><br>Nadir</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-komodo-preview.png" title="Go to Apophis Dark Matter - Nadir - Komodo" alt="Go to Apophis Dark Matter - Nadir - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-nadir-komodo-preview.png"  alt="Apophis Dark Matter - Nadir - Komodo"  title="Apophis Dark Matter - Nadir - Komodo"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-komodo-preview.png" title="Go to Apophis Dark Matter - Nadir - Komodo" alt="Go to Apophis Dark Matter - Nadir - Komodo" target="github">Komodo</a><br>Nadir</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-kronos-preview.png" title="Go to Apophis Dark Matter - Nadir - Kronos" alt="Go to Apophis Dark Matter - Nadir - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-nadir-kronos-preview.png"  alt="Apophis Dark Matter - Nadir - Kronos"  title="Apophis Dark Matter - Nadir - Kronos"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-kronos-preview.png" title="Go to Apophis Dark Matter - Nadir - Kronos" alt="Go to Apophis Dark Matter - Nadir - Kronos" target="github">Kronos</a><br>Nadir</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-meabh-preview.png" title="Go to Apophis Dark Matter - Nadir - Meabh" alt="Go to Apophis Dark Matter - Nadir - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-nadir-meabh-preview.png"  alt="Apophis Dark Matter - Nadir - Meabh"  title="Apophis Dark Matter - Nadir - Meabh"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-meabh-preview.png" title="Go to Apophis Dark Matter - Nadir - Meabh" alt="Go to Apophis Dark Matter - Nadir - Meabh" target="github">Meabh</a><br>Nadir</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-mystic-river-preview.png" title="Go to Apophis Dark Matter - Nadir - Mystic River" alt="Go to Apophis Dark Matter - Nadir - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-nadir-mystic-river-preview.png"  alt="Apophis Dark Matter - Nadir - Mystic River"  title="Apophis Dark Matter - Nadir - Mystic River"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-mystic-river-preview.png" title="Go to Apophis Dark Matter - Nadir - Mystic River" alt="Go to Apophis Dark Matter - Nadir - Mystic River" target="github">Mystic River</a><br>Nadir</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-obsidian-preview.png" title="Go to Apophis Dark Matter - Nadir - Obsidian" alt="Go to Apophis Dark Matter - Nadir - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-nadir-obsidian-preview.png"  alt="Apophis Dark Matter - Nadir - Obsidian"  title="Apophis Dark Matter - Nadir - Obsidian"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-obsidian-preview.png" title="Go to Apophis Dark Matter - Nadir - Obsidian" alt="Go to Apophis Dark Matter - Nadir - Obsidian" target="github">Obsidian</a><br>Nadir</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-sulfur-preview.png" title="Go to Apophis Dark Matter - Nadir - Sulfur" alt="Go to Apophis Dark Matter - Nadir - Sulfur" target="github"><img src="./_gfx/apophis-dark-matter-nadir-sulfur-preview.png"  alt="Apophis Dark Matter - Nadir - Sulfur"  title="Apophis Dark Matter - Nadir - Sulfur"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-sulfur-preview.png" title="Go to Apophis Dark Matter - Nadir - Sulfur" alt="Go to Apophis Dark Matter - Nadir - Sulfur" target="github">Sulfur</a><br>Nadir</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-viserion-preview.png" title="Go to Apophis Dark Matter - Nadir - Viserion" alt="Go to Apophis Dark Matter - Nadir - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-nadir-viserion-preview.png"  alt="Apophis Dark Matter - Nadir - Viserion"  title="Apophis Dark Matter - Nadir - Viserion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-nadir-viserion-preview.png" title="Go to Apophis Dark Matter - Nadir - Viserion" alt="Go to Apophis Dark Matter - Nadir - Viserion" target="github">Viserion</a><br>Nadir</div></td><td valign="top">&nbsp;</td><td valign="top">&nbsp;</td></tr>
 
-<tr><td colspan="4" align="center" valign="top" border="0">
+</table>
+</div>
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## **Warm** (10 skins): Warm Gray Background and Warm Token Colors
 
+<div align="center">
+
+
+
+[![Apophis Dark Matter - Warm - Black Pond Has My Heart](./_gfx/apophis-dark-matter-warm-black-pond-has-my-heart-preview.png)](./_gfx/apophis-dark-matter-warm-black-pond-has-my-heart-preview.png)
+
+[Black pond has my heart](./_gfx/apophis-dark-matter-warm-black-pond-has-my-heart-preview.png) <br>Warm
+
+
+<table>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Warm - Aquamarine](./_gfx/apophis-dark-matter-warm-aquamarine-preview.png)](./_gfx/apophis-dark-matter-warm-aquamarine-preview.png)
+
+[Aquamarine](./_gfx/apophis-dark-matter-warm-aquamarine-preview.png) <br>Warm
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Warm - Komodo](./_gfx/apophis-dark-matter-warm-komodo-preview.png)](./_gfx/apophis-dark-matter-warm-komodo-preview.png)
+
+[Komodo](./_gfx/apophis-dark-matter-warm-komodo-preview.png) <br>Warm
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Warm - Kronos](./_gfx/apophis-dark-matter-warm-kronos-preview.png)](./_gfx/apophis-dark-matter-warm-kronos-preview.png)
+
+[Kronos](./_gfx/apophis-dark-matter-warm-kronos-preview.png) <br>Warm
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Warm - Meabh](./_gfx/apophis-dark-matter-warm-meabh-preview.png)](./_gfx/apophis-dark-matter-warm-meabh-preview.png)
+
+[Meabh](./_gfx/apophis-dark-matter-warm-meabh-preview.png) <br>Warm
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Warm - Morion](./_gfx/apophis-dark-matter-warm-morion-preview.png)](./_gfx/apophis-dark-matter-warm-morion-preview.png)
+
+[Morion](./_gfx/apophis-dark-matter-warm-morion-preview.png) <br>Warm
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Warm - Mystic River](./_gfx/apophis-dark-matter-warm-mystic-river-preview.png)](./_gfx/apophis-dark-matter-warm-mystic-river-preview.png)
+
+[Mystic River](./_gfx/apophis-dark-matter-warm-mystic-river-preview.png) <br>Warm
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Warm - Obsidian](./_gfx/apophis-dark-matter-warm-obsidian-preview.png)](./_gfx/apophis-dark-matter-warm-obsidian-preview.png)
+
+[Obsidian](./_gfx/apophis-dark-matter-warm-obsidian-preview.png) <br>Warm
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Warm - Sulfur](./_gfx/apophis-dark-matter-warm-sulfur-preview.png)](./_gfx/apophis-dark-matter-warm-sulfur-preview.png)
+
+[Sulfur](./_gfx/apophis-dark-matter-warm-sulfur-preview.png) <br>Warm
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Warm - Viserion](./_gfx/apophis-dark-matter-warm-viserion-preview.png)](./_gfx/apophis-dark-matter-warm-viserion-preview.png)
+
+[Viserion](./_gfx/apophis-dark-matter-warm-viserion-preview.png) <br>Warm
+</td>
+<td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
+</td><td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
+</td><td align="center" valign="top" >
+
+![](./_gfx/_fake_preview.png)
+
 </td></tr>
-<tr><td colspan="4" valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-meabh-preview.png" title="Go to Apophis Dark Matter - Warm - Meabh" alt="Go to Apophis Dark Matter - Warm - Meabh" target="github"><img src="./_gfx/apophis-dark-matter-warm-meabh-preview.png"  alt="Apophis Dark Matter - Warm - Meabh"  title="Apophis Dark Matter - Warm - Meabh"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-meabh-preview.png" title="Go to Apophis Dark Matter - Warm - Meabh" alt="Go to Apophis Dark Matter - Warm - Meabh" target="github">Meabh</a><br>Warm</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-aquamarine-preview.png" title="Go to Apophis Dark Matter - Warm - Aquamarine" alt="Go to Apophis Dark Matter - Warm - Aquamarine" target="github"><img src="./_gfx/apophis-dark-matter-warm-aquamarine-preview.png"  alt="Apophis Dark Matter - Warm - Aquamarine"  title="Apophis Dark Matter - Warm - Aquamarine"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-aquamarine-preview.png" title="Go to Apophis Dark Matter - Warm - Aquamarine" alt="Go to Apophis Dark Matter - Warm - Aquamarine" target="github">Aquamarine</a><br>Warm</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Warm - Black Pond Has My Heart" alt="Go to Apophis Dark Matter - Warm - Black Pond Has My Heart" target="github"><img src="./_gfx/apophis-dark-matter-warm-black-pond-has-my-heart-preview.png"  alt="Apophis Dark Matter - Warm - Black Pond Has My Heart"  title="Apophis Dark Matter - Warm - Black Pond Has My Heart"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-black-pond-has-my-heart-preview.png" title="Go to Apophis Dark Matter - Warm - Black Pond Has My Heart" alt="Go to Apophis Dark Matter - Warm - Black Pond Has My Heart" target="github">Black pond has my heart</a><br>Warm</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-komodo-preview.png" title="Go to Apophis Dark Matter - Warm - Komodo" alt="Go to Apophis Dark Matter - Warm - Komodo" target="github"><img src="./_gfx/apophis-dark-matter-warm-komodo-preview.png"  alt="Apophis Dark Matter - Warm - Komodo"  title="Apophis Dark Matter - Warm - Komodo"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-komodo-preview.png" title="Go to Apophis Dark Matter - Warm - Komodo" alt="Go to Apophis Dark Matter - Warm - Komodo" target="github">Komodo</a><br>Warm</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-kronos-preview.png" title="Go to Apophis Dark Matter - Warm - Kronos" alt="Go to Apophis Dark Matter - Warm - Kronos" target="github"><img src="./_gfx/apophis-dark-matter-warm-kronos-preview.png"  alt="Apophis Dark Matter - Warm - Kronos"  title="Apophis Dark Matter - Warm - Kronos"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-kronos-preview.png" title="Go to Apophis Dark Matter - Warm - Kronos" alt="Go to Apophis Dark Matter - Warm - Kronos" target="github">Kronos</a><br>Warm</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-morion-preview.png" title="Go to Apophis Dark Matter - Warm - Morion" alt="Go to Apophis Dark Matter - Warm - Morion" target="github"><img src="./_gfx/apophis-dark-matter-warm-morion-preview.png"  alt="Apophis Dark Matter - Warm - Morion"  title="Apophis Dark Matter - Warm - Morion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-morion-preview.png" title="Go to Apophis Dark Matter - Warm - Morion" alt="Go to Apophis Dark Matter - Warm - Morion" target="github">Morion</a><br>Warm</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-mystic-river-preview.png" title="Go to Apophis Dark Matter - Warm - Mystic River" alt="Go to Apophis Dark Matter - Warm - Mystic River" target="github"><img src="./_gfx/apophis-dark-matter-warm-mystic-river-preview.png"  alt="Apophis Dark Matter - Warm - Mystic River"  title="Apophis Dark Matter - Warm - Mystic River"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-mystic-river-preview.png" title="Go to Apophis Dark Matter - Warm - Mystic River" alt="Go to Apophis Dark Matter - Warm - Mystic River" target="github">Mystic River</a><br>Warm</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-obsidian-preview.png" title="Go to Apophis Dark Matter - Warm - Obsidian" alt="Go to Apophis Dark Matter - Warm - Obsidian" target="github"><img src="./_gfx/apophis-dark-matter-warm-obsidian-preview.png"  alt="Apophis Dark Matter - Warm - Obsidian"  title="Apophis Dark Matter - Warm - Obsidian"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-obsidian-preview.png" title="Go to Apophis Dark Matter - Warm - Obsidian" alt="Go to Apophis Dark Matter - Warm - Obsidian" target="github">Obsidian</a><br>Warm</div></td><td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-sulfur-preview.png" title="Go to Apophis Dark Matter - Warm - Sulfur" alt="Go to Apophis Dark Matter - Warm - Sulfur" target="github"><img src="./_gfx/apophis-dark-matter-warm-sulfur-preview.png"  alt="Apophis Dark Matter - Warm - Sulfur"  title="Apophis Dark Matter - Warm - Sulfur"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-sulfur-preview.png" title="Go to Apophis Dark Matter - Warm - Sulfur" alt="Go to Apophis Dark Matter - Warm - Sulfur" target="github">Sulfur</a><br>Warm</div></td></tr>
-<tr>
-<td valign="top" align="center"><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-viserion-preview.png" title="Go to Apophis Dark Matter - Warm - Viserion" alt="Go to Apophis Dark Matter - Warm - Viserion" target="github"><img src="./_gfx/apophis-dark-matter-warm-viserion-preview.png"  alt="Apophis Dark Matter - Warm - Viserion"  title="Apophis Dark Matter - Warm - Viserion"></a></div><div><a href="https://github.com/nicolagranata/vscode-theme-apophis-dark-matter/tree/master/_gfx/apophis-dark-matter-warm-viserion-preview.png" title="Go to Apophis Dark Matter - Warm - Viserion" alt="Go to Apophis Dark Matter - Warm - Viserion" target="github">Viserion</a><br>Warm</div></td><td valign="top">&nbsp;</td><td valign="top">&nbsp;</td><td valign="top">&nbsp;</td></tr>
 
 </table>
-</div></center>
+</div>
 
 
 
 
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 # Free Fonts for coding
 
 The settings for the following fonts are correctly tested on a 24" monitor FullHD and 32" Monitor QHD. The indicated sizes are the minimum to obtain a clear display of the fonts.
 
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## Fonts Comparative Table and Downloads
 
@@ -522,7 +973,12 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div>
 
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## Optimal Settings
 
@@ -532,10 +988,10 @@ Click on the name of font to download, and the script icon to go to optimal sett
 
 
 
-<table style="width:96%;"><tr>
+<table align="center" width="100%"><tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-001-129095></a>001 - <a href="https://www.cufonfonts.com/download/font/andale-mono" title="Download Andale Mono">Andale Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-001-129095"  name="font-001-129095"></a>001 - <a href="https://www.cufonfonts.com/download/font/andale-mono" title="Download Andale Mono">Andale Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -554,7 +1010,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-002-129095></a>002 - <a href="https://www.marksimonson.com/fonts/view/anonymous-pro" title="Download Anonymous Pro">Anonymous Pro</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-002-129095"  name="font-002-129095"></a>002 - <a href="https://www.marksimonson.com/fonts/view/anonymous-pro" title="Download Anonymous Pro">Anonymous Pro</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -575,7 +1031,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-003-129095></a>003 - <a href="https://www.cufonfonts.com/download/font/antikor-mono" title="Download Antikor Mono">Antikor Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-003-129095"  name="font-003-129095"></a>003 - <a href="https://www.cufonfonts.com/download/font/antikor-mono" title="Download Antikor Mono">Antikor Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -629,7 +1085,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-004-129095></a>004 - <a href="https://www.cufonfonts.com/download/font/antikor-mono" title="Download Antikor Text">Antikor Text</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-004-129095"  name="font-004-129095"></a>004 - <a href="https://www.cufonfonts.com/download/font/antikor-mono" title="Download Antikor Text">Antikor Text</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -685,7 +1141,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-005-129095></a>005 - <a href="https://fontlibrary.org/en/font/average-mono" title="Download AverageMono">AverageMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-005-129095"  name="font-005-129095"></a>005 - <a href="https://fontlibrary.org/en/font/average-mono" title="Download AverageMono">AverageMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -704,7 +1160,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-006-129095></a>006 - <a href="https://fonts.google.com/specimen/B612+Mono" title="Download B612 Mono">B612 Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;]</span></div>
+<a id="font-006-129095"  name="font-006-129095"></a>006 - <a href="https://fonts.google.com/specimen/B612+Mono" title="Download B612 Mono">B612 Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -725,7 +1181,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-007-129095></a>007 - <a href="https://www.fontmirror.com/monaco" title="Download BPmono">BPmono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-007-129095"  name="font-007-129095"></a>007 - <a href="https://www.fontmirror.com/monaco" title="Download BPmono">BPmono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -744,7 +1200,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-008-129095></a>008 - <a href="https://www.dafont.com/it/bitstream-vera-mono.font" title="Download Bitstream Vera Sans Mono">Bitstream Vera Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-008-129095"  name="font-008-129095"></a>008 - <a href="https://www.dafont.com/it/bitstream-vera-mono.font" title="Download Bitstream Vera Sans Mono">Bitstream Vera Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -765,7 +1221,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-009-129095></a>009 - <a href="https://www.janfromm.de/typefaces/camingomono/camingocode/" title="Download CamingoCode">CamingoCode</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-009-129095"  name="font-009-129095"></a>009 - <a href="https://www.janfromm.de/typefaces/camingomono/camingocode/" title="Download CamingoCode">CamingoCode</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -784,7 +1240,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-010-129095></a>010 - <a href="https://github.com/microsoft/cascadia-code/releases" title="Download Cascadia Code">Cascadia Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-010-129095"  name="font-010-129095"></a>010 - <a href="https://github.com/microsoft/cascadia-code/releases" title="Download Cascadia Code">Cascadia Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -805,7 +1261,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-011-129095></a>011 - <a href="https://github.com/microsoft/cascadia-code/releases" title="Download Cascadia Mono">Cascadia Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-011-129095"  name="font-011-129095"></a>011 - <a href="https://github.com/microsoft/cascadia-code/releases" title="Download Cascadia Mono">Cascadia Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -824,7 +1280,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-012-129095></a>012 - <a href="https://www.dafont.com/code-new-roman.font" title="Download Code New Roman">Code New Roman</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-012-129095"  name="font-012-129095"></a>012 - <a href="https://www.dafont.com/code-new-roman.font" title="Download Code New Roman">Code New Roman</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -845,7 +1301,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-013-129095></a>013 - <a href="https://fontlibrary.org/en/font/consolamono" title="Download Consola Mono">Consola Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-013-129095"  name="font-013-129095"></a>013 - <a href="https://fontlibrary.org/en/font/consolamono" title="Download Consola Mono">Consola Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -864,7 +1320,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-014-129095></a>014 - <a href="https://github.com/somq/consolas-ligaturized/" title="Download Consolas Ligaturized v2">Consolas Ligaturized v2</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-014-129095"  name="font-014-129095"></a>014 - <a href="https://github.com/somq/consolas-ligaturized/" title="Download Consolas Ligaturized v2">Consolas Ligaturized v2</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -885,7 +1341,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-015-129095></a>015 - <a href="https://fontesk.com/conta-typeface/" title="Download Conta Mono">Conta Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&nbsp;]</span></div>
+<a id="font-015-129095"  name="font-015-129095"></a>015 - <a href="https://fontesk.com/conta-typeface/" title="Download Conta Mono">Conta Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -904,7 +1360,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-016-129095></a>016 - <a href="https://github.com/gregkh/cosmic-sans-neue" title="Download CosmicSansNeueMono">CosmicSansNeueMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-016-129095"  name="font-016-129095"></a>016 - <a href="https://github.com/gregkh/cosmic-sans-neue" title="Download CosmicSansNeueMono">CosmicSansNeueMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -925,7 +1381,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-017-129095></a>017 - <a href="https://github.com/quoteunquoteapps/CourierPrimeCode" title="Download Courier Prime Code">Courier Prime Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-017-129095"  name="font-017-129095"></a>017 - <a href="https://github.com/quoteunquoteapps/CourierPrimeCode" title="Download Courier Prime Code">Courier Prime Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -944,7 +1400,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-018-129095></a>018 - <a href="https://www.fontsc.com/font/download/cousine" title="Download Cousine">Cousine</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-018-129095"  name="font-018-129095"></a>018 - <a href="https://www.fontsc.com/font/download/cousine" title="Download Cousine">Cousine</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -965,7 +1421,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-019-129095></a>019 - <a href="https://fonts.google.com/specimen/DM+Mono?category=Monospace&preview.size=11" title="Download DM Mono">DM Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-019-129095"  name="font-019-129095"></a>019 - <a href="https://fonts.google.com/specimen/DM+Mono?category=Monospace&preview.size=11" title="Download DM Mono">DM Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -984,7 +1440,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-020-129095></a>020 - <a href="https://github.com/BourgeoisBear/DaddyTimeMono" title="Download DaddyTimeMono">DaddyTimeMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-020-129095"  name="font-020-129095"></a>020 - <a href="https://github.com/BourgeoisBear/DaddyTimeMono" title="Download DaddyTimeMono">DaddyTimeMono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1005,7 +1461,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-021-129095></a>021 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Dank Mono">Dank Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-021-129095"  name="font-021-129095"></a>021 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Dank Mono">Dank Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1024,7 +1480,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-022-129095></a>022 - <a href="https://github.com/SSNikolaevich/DejaVuSansCode/releases/" title="Download DejaVu Sans Code">DejaVu Sans Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-022-129095"  name="font-022-129095"></a>022 - <a href="https://github.com/SSNikolaevich/DejaVuSansCode/releases/" title="Download DejaVu Sans Code">DejaVu Sans Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1045,7 +1501,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-023-129095></a>023 - <a href="https://sourceforge.net/projects/dejavu/" title="Download DejaVu Sans Mono">DejaVu Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-023-129095"  name="font-023-129095"></a>023 - <a href="https://sourceforge.net/projects/dejavu/" title="Download DejaVu Sans Mono">DejaVu Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1064,7 +1520,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-024-129095></a>024 - <a href="https://github.com/chrismwendt/bront" title="Download DejaVu Sans Mono - Bront">DejaVu Sans Mono - Bront</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-024-129095"  name="font-024-129095"></a>024 - <a href="https://github.com/chrismwendt/bront" title="Download DejaVu Sans Mono - Bront">DejaVu Sans Mono - Bront</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1080,9 +1536,7 @@ Click on the name of font to download, and the script icon to go to optimal sett
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 
 </div>
@@ -1091,7 +1545,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-025-129095></a>025 - <a href="https://www.fontsquirrel.com/fonts/download/droid-sans" title="Download Droid Sans Mono">Droid Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;]</span></div>
+<a id="font-025-129095"  name="font-025-129095"></a>025 - <a href="https://www.fontsquirrel.com/fonts/download/droid-sans" title="Download Droid Sans Mono">Droid Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1110,7 +1564,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-026-129095></a>026 - <a href="https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released" title="Download Envy Code R">Envy Code R</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-026-129095"  name="font-026-129095"></a>026 - <a href="https://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released" title="Download Envy Code R">Envy Code R</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1131,7 +1585,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-027-129095></a>027 - <a href="https://github.com/belluzj/fantasque-sans/releases" title="Download Fantasque Sans Mono">Fantasque Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-027-129095"  name="font-027-129095"></a>027 - <a href="https://github.com/belluzj/fantasque-sans/releases" title="Download Fantasque Sans Mono">Fantasque Sans Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1150,7 +1604,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-028-129095></a>028 - <a href="https://github.com/tonsky/FiraCode" title="Download Fira Code">Fira Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-028-129095"  name="font-028-129095"></a>028 - <a href="https://github.com/tonsky/FiraCode" title="Download Fira Code">Fira Code</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1171,7 +1625,7 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-029-129095></a>029 - <a href="https://github.com/kencrocken/FiraCodeiScript" title="Download Fira Code iScript">Fira Code iScript</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-029-129095"  name="font-029-129095"></a>029 - <a href="https://github.com/kencrocken/FiraCodeiScript" title="Download Fira Code iScript">Fira Code iScript</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1222,16 +1676,14 @@ DejaVu Sans Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Fira Code iScript: Fira Code iScript = Fira Code + Script12 Fonts
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-030-129095></a>030 - <a href="https://fonts.google.com/specimen/Fira+Mono" title="Download Fira Mono">Fira Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-030-129095"  name="font-030-129095"></a>030 - <a href="https://fonts.google.com/specimen/Fira+Mono" title="Download Fira Mono">Fira Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1252,7 +1704,7 @@ Fira Code iScript: Fira Code iScript = Fira Code + Script12 Fonts
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-031-129095></a>031 - <a href="https://github.com/kosimst/FiraFlott" title="Download FiraFlott">FiraFlott</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-031-129095"  name="font-031-129095"></a>031 - <a href="https://github.com/kosimst/FiraFlott" title="Download FiraFlott">FiraFlott</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1303,16 +1755,14 @@ Fira Code iScript: Fira Code iScript = Fira Code + Script12 Fonts
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-032-129095></a>032 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Gintronic">Gintronic</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-032-129095"  name="font-032-129095"></a>032 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Gintronic">Gintronic</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1333,7 +1783,7 @@ FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-033-129095></a>033 - <a href="https://sourcefoundry.org/hack" title="Download Hack">Hack</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-033-129095"  name="font-033-129095"></a>033 - <a href="https://sourcefoundry.org/hack" title="Download Hack">Hack</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1352,7 +1802,7 @@ FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-034-129095></a>034 - <a href="https://github.com/i-tu/Hasklig" title="Download Hasklig">Hasklig</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-034-129095"  name="font-034-129095"></a>034 - <a href="https://github.com/i-tu/Hasklig" title="Download Hasklig">Hasklig</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1368,9 +1818,7 @@ FiraFlott: FiraFlott = Fira Code + FlottFlot Fonts
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Hasklig: Fork of `Source Code Pro`
 
 </div>
@@ -1379,7 +1827,7 @@ Hasklig: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-035-129095></a>035 - <a href="https://pcaro.es/p/hermit/" title="Download Hermit">Hermit</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-035-129095"  name="font-035-129095"></a>035 - <a href="https://pcaro.es/p/hermit/" title="Download Hermit">Hermit</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1398,7 +1846,7 @@ Hasklig: Fork of `Source Code Pro`
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-036-129095></a>036 - <a href="https://fonts.google.com/specimen/IBM+Plex+Mono" title="Download IBM Plex Mono">IBM Plex Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-036-129095"  name="font-036-129095"></a>036 - <a href="https://fonts.google.com/specimen/IBM+Plex+Mono" title="Download IBM Plex Mono">IBM Plex Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1419,7 +1867,7 @@ Hasklig: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-037-129095></a>037 - <a href="https://fonts.google.com/specimen/Inconsolata" title="Download Inconsolata">Inconsolata</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-037-129095"  name="font-037-129095"></a>037 - <a href="https://fonts.google.com/specimen/Inconsolata" title="Download Inconsolata">Inconsolata</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1438,7 +1886,7 @@ Hasklig: Fork of `Source Code Pro`
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-038-129095></a>038 - <a href="https://fonts.google.com/specimen/Inconsolata" title="Download Inconsolata-g">Inconsolata-g</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-038-129095"  name="font-038-129095"></a>038 - <a href="https://fonts.google.com/specimen/Inconsolata" title="Download Inconsolata-g">Inconsolata-g</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1459,7 +1907,7 @@ Hasklig: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-039-129095></a>039 - <a href="https://input.fontbureau.com/download" title="Download Input Mono">Input Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-039-129095"  name="font-039-129095"></a>039 - <a href="https://input.fontbureau.com/download" title="Download Input Mono">Input Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1478,7 +1926,7 @@ Hasklig: Fork of `Source Code Pro`
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-040-129095></a>040 - <a href="https://input.fontbureau.com/download" title="Download Input Mono Condensed">Input Mono Condensed</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-040-129095"  name="font-040-129095"></a>040 - <a href="https://input.fontbureau.com/download" title="Download Input Mono Condensed">Input Mono Condensed</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1499,7 +1947,7 @@ Hasklig: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-041-129095></a>041 - <a href="https://typeof.net/Iosevka" title="Download Iosevka">Iosevka</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-041-129095"  name="font-041-129095"></a>041 - <a href="https://typeof.net/Iosevka" title="Download Iosevka">Iosevka</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1515,16 +1963,14 @@ Hasklig: Fork of `Source Code Pro`
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka: Monospace, Default - Many version of this font by Key Shape, Spacing and Ligatures, Styles
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-042-129095></a>042 - <a href="https://typeof.net/Iosevka" title="Download Iosevka Curly">Iosevka Curly</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-042-129095"  name="font-042-129095"></a>042 - <a href="https://typeof.net/Iosevka" title="Download Iosevka Curly">Iosevka Curly</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1540,9 +1986,7 @@ Iosevka: Monospace, Default - Many version of this font by Key Shape, Spacing an
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka Curly: Monospace, Curly.
 
 </div>
@@ -1551,7 +1995,7 @@ Iosevka Curly: Monospace, Curly.
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-043-129095></a>043 - <a href="https://typeof.net/Iosevka" title="Download Iosevka Curly Slab">Iosevka Curly Slab</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-043-129095"  name="font-043-129095"></a>043 - <a href="https://typeof.net/Iosevka" title="Download Iosevka Curly Slab">Iosevka Curly Slab</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1567,16 +2011,14 @@ Iosevka Curly: Monospace, Curly.
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka Curly Slab: Monospace, Curly Slab
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-044-129095></a>044 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS01">Iosevka SS01</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-044-129095"  name="font-044-129095"></a>044 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS01">Iosevka SS01</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1592,9 +2034,7 @@ Iosevka Curly Slab: Monospace, Curly Slab
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS01: Monospace, Andale Mono Style
 
 </div>
@@ -1603,7 +2043,7 @@ Iosevka SS01: Monospace, Andale Mono Style
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-045-129095></a>045 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS02">Iosevka SS02</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-045-129095"  name="font-045-129095"></a>045 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS02">Iosevka SS02</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1619,16 +2059,14 @@ Iosevka SS01: Monospace, Andale Mono Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS02: Monospace, Anonymous Pro Style
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-046-129095></a>046 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS03">Iosevka SS03</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-046-129095"  name="font-046-129095"></a>046 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS03">Iosevka SS03</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1644,9 +2082,7 @@ Iosevka SS02: Monospace, Anonymous Pro Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS03: Monospace, Consolas Style
 
 </div>
@@ -1655,7 +2091,7 @@ Iosevka SS03: Monospace, Consolas Style
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-047-129095></a>047 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS04">Iosevka SS04</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-047-129095"  name="font-047-129095"></a>047 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS04">Iosevka SS04</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1671,16 +2107,14 @@ Iosevka SS03: Monospace, Consolas Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS04: Monospace, Menlo Style
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-048-129095></a>048 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS05">Iosevka SS05</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-048-129095"  name="font-048-129095"></a>048 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS05">Iosevka SS05</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1696,9 +2130,7 @@ Iosevka SS04: Monospace, Menlo Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS05: Monospace, Fira Mono Style
 
 </div>
@@ -1707,7 +2139,7 @@ Iosevka SS05: Monospace, Fira Mono Style
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-049-129095></a>049 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS06">Iosevka SS06</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-049-129095"  name="font-049-129095"></a>049 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS06">Iosevka SS06</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1723,16 +2155,14 @@ Iosevka SS05: Monospace, Fira Mono Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS06: Monospace, Liberation Mono Style
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-050-129095></a>050 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS07">Iosevka SS07</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-050-129095"  name="font-050-129095"></a>050 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS07">Iosevka SS07</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1748,9 +2178,7 @@ Iosevka SS06: Monospace, Liberation Mono Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS07: Monospace, Monaco Style
 
 </div>
@@ -1759,7 +2187,7 @@ Iosevka SS07: Monospace, Monaco Style
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-051-129095></a>051 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS08">Iosevka SS08</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-051-129095"  name="font-051-129095"></a>051 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS08">Iosevka SS08</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1775,16 +2203,14 @@ Iosevka SS07: Monospace, Monaco Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS08: Monospace, Pragmata Pro Style
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-052-129095></a>052 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS09">Iosevka SS09</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-052-129095"  name="font-052-129095"></a>052 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS09">Iosevka SS09</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1800,9 +2226,7 @@ Iosevka SS08: Monospace, Pragmata Pro Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS09: Monospace, Source Code Pro Style
 
 </div>
@@ -1811,7 +2235,7 @@ Iosevka SS09: Monospace, Source Code Pro Style
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-053-129095></a>053 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS10">Iosevka SS10</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-053-129095"  name="font-053-129095"></a>053 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS10">Iosevka SS10</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1827,16 +2251,14 @@ Iosevka SS09: Monospace, Source Code Pro Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS10: Monospace, Envy Code R Style
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-054-129095></a>054 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS11">Iosevka SS11</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-054-129095"  name="font-054-129095"></a>054 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS11">Iosevka SS11</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1852,9 +2274,7 @@ Iosevka SS10: Monospace, Envy Code R Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS11: Monospace, X Windows Fixed Style
 
 </div>
@@ -1863,7 +2283,7 @@ Iosevka SS11: Monospace, X Windows Fixed Style
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-055-129095></a>055 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS12">Iosevka SS12</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-055-129095"  name="font-055-129095"></a>055 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS12">Iosevka SS12</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1879,16 +2299,14 @@ Iosevka SS11: Monospace, X Windows Fixed Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS12: Monospace, Ubuntu Mono Style
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-056-129095></a>056 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS13">Iosevka SS13</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-056-129095"  name="font-056-129095"></a>056 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS13">Iosevka SS13</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1904,9 +2322,7 @@ Iosevka SS12: Monospace, Ubuntu Mono Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS13: Monospace, Lucida Style
 
 </div>
@@ -1915,7 +2331,7 @@ Iosevka SS13: Monospace, Lucida Style
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-057-129095></a>057 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS14">Iosevka SS14</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-057-129095"  name="font-057-129095"></a>057 - <a href="https://typeof.net/Iosevka" title="Download Iosevka SS14">Iosevka SS14</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1931,16 +2347,14 @@ Iosevka SS13: Monospace, Lucida Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka SS14: Monospace, JetBrains Mono Style
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-058-129095></a>058 - <a href="https://typeof.net/Iosevka" title="Download Iosevka Slab">Iosevka Slab</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-058-129095"  name="font-058-129095"></a>058 - <a href="https://typeof.net/Iosevka" title="Download Iosevka Slab">Iosevka Slab</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1956,9 +2370,7 @@ Iosevka SS14: Monospace, JetBrains Mono Style
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Iosevka Slab: Monospace, Slab
 
 </div>
@@ -1967,7 +2379,7 @@ Iosevka Slab: Monospace, Slab
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-059-129095></a>059 - <a href="https://www.jetbrains.com/lp/mono/" title="Download JetBrains Mono">JetBrains Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-059-129095"  name="font-059-129095"></a>059 - <a href="https://www.jetbrains.com/lp/mono/" title="Download JetBrains Mono">JetBrains Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -1986,7 +2398,7 @@ Iosevka Slab: Monospace, Slab
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-060-129095></a>060 - <a href="https://fontsgeek.com/fonts/kawkab-mono-regular#" title="Download KawKab Mono">KawKab Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-060-129095"  name="font-060-129095"></a>060 - <a href="https://fontsgeek.com/fonts/kawkab-mono-regular#" title="Download KawKab Mono">KawKab Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2007,7 +2419,7 @@ Iosevka Slab: Monospace, Slab
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-061-129095></a>061 - <a href="https://fonts.google.com/specimen/Lekton" title="Download Lekton">Lekton</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-061-129095"  name="font-061-129095"></a>061 - <a href="https://fonts.google.com/specimen/Lekton" title="Download Lekton">Lekton</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2026,7 +2438,7 @@ Iosevka Slab: Monospace, Slab
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-062-129095></a>062 - <a href="https://dl.1001fonts.com/liberation-mono.zip" title="Download Liberation Mono">Liberation Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-062-129095"  name="font-062-129095"></a>062 - <a href="https://dl.1001fonts.com/liberation-mono.zip" title="Download Liberation Mono">Liberation Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2047,7 +2459,7 @@ Iosevka Slab: Monospace, Slab
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-063-129095></a>063 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Liga Monego">Liga Monego</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-063-129095"  name="font-063-129095"></a>063 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Liga Monego">Liga Monego</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2063,16 +2475,14 @@ Iosevka Slab: Monospace, Slab
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Liga Monego: Monego with Ligatures
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-064-129095></a>064 - <a href="https://github.com/mishamyrt/Lilex/releases" title="Download Lilex">Lilex</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-064-129095"  name="font-064-129095"></a>064 - <a href="https://github.com/mishamyrt/Lilex/releases" title="Download Lilex">Lilex</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2093,7 +2503,7 @@ Liga Monego: Monego with Ligatures
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-065-129095></a>065 - <a href="http://eastfarthing.com/luculent/luculent.zip" title="Download Luculent">Luculent</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-065-129095"  name="font-065-129095"></a>065 - <a href="http://eastfarthing.com/luculent/luculent.zip" title="Download Luculent">Luculent</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2112,7 +2522,7 @@ Liga Monego: Monego with Ligatures
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-066-129095></a>066 - <a href="https://www.fontsquirrel.com/fonts/M-1m" title="Download M+ 1m">M+ 1m</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-066-129095"  name="font-066-129095"></a>066 - <a href="https://www.fontsquirrel.com/fonts/M-1m" title="Download M+ 1m">M+ 1m</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2133,7 +2543,7 @@ Liga Monego: Monego with Ligatures
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-067-129095></a>067 - <a href="https://www.wfonts.com/download/data/2016/06/18/m-2m/m-2m.zip" title="Download M+ 2m">M+ 2m</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-067-129095"  name="font-067-129095"></a>067 - <a href="https://www.wfonts.com/download/data/2016/06/18/m-2m/m-2m.zip" title="Download M+ 2m">M+ 2m</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2152,7 +2562,7 @@ Liga Monego: Monego with Ligatures
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-068-129095></a>068 - <a href="https://github.com/hbin/top-programming-fonts" title="Download Menlo">Menlo</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-068-129095"  name="font-068-129095"></a>068 - <a href="https://github.com/hbin/top-programming-fonts" title="Download Menlo">Menlo</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2173,7 +2583,7 @@ Liga Monego: Monego with Ligatures
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-069-129095></a>069 - <a href="https://robey.lag.net/2010/06/21/mensch-font.html" title="Download Mensch">Mensch</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-069-129095"  name="font-069-129095"></a>069 - <a href="https://robey.lag.net/2010/06/21/mensch-font.html" title="Download Mensch">Mensch</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2189,16 +2599,14 @@ Liga Monego: Monego with Ligatures
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Mensch: `Menlo` Tweaked
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-070-129095></a>070 - <a href="https://github.com/andreberg/Meslo-Font" title="Download Meslo LG M">Meslo LG M</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-070-129095"  name="font-070-129095"></a>070 - <a href="https://github.com/andreberg/Meslo-Font" title="Download Meslo LG M">Meslo LG M</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2219,7 +2627,7 @@ Mensch: `Menlo` Tweaked
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-071-129095></a>071 - <a href="https://github.com/andreberg/Meslo-Font" title="Download Meslo LG S">Meslo LG S</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-071-129095"  name="font-071-129095"></a>071 - <a href="https://github.com/andreberg/Meslo-Font" title="Download Meslo LG S">Meslo LG S</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2235,16 +2643,14 @@ Mensch: `Menlo` Tweaked
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Meslo LG S: (Meslo LG) S / M / L are the line gap variants in vertical spacing.
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-072-129095></a>072 - <a href="https://github.com/robey/metrickal-typeface/tree/master/downloads" title="Download Metrickal">Metrickal</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-072-129095"  name="font-072-129095"></a>072 - <a href="https://github.com/robey/metrickal-typeface/tree/master/downloads" title="Download Metrickal">Metrickal</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2265,7 +2671,7 @@ Meslo LG S: (Meslo LG) S / M / L are the line gap variants in vertical spacing.
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-073-129095></a>073 - <a href="https://www.fontmirror.com/monaco" title="Download Monaco">Monaco</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-073-129095"  name="font-073-129095"></a>073 - <a href="https://www.fontmirror.com/monaco" title="Download Monaco">Monaco</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2284,7 +2690,7 @@ Meslo LG S: (Meslo LG) S / M / L are the line gap variants in vertical spacing.
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-074-129095></a>074 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Monego">Monego</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-074-129095"  name="font-074-129095"></a>074 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Monego">Monego</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2305,7 +2711,7 @@ Meslo LG S: (Meslo LG) S / M / L are the line gap variants in vertical spacing.
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-075-129095></a>075 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Monego Nerd Font">Monego Nerd Font</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-075-129095"  name="font-075-129095"></a>075 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Monego Nerd Font">Monego Nerd Font</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2321,16 +2727,14 @@ Meslo LG S: (Meslo LG) S / M / L are the line gap variants in vertical spacing.
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Monego Nerd Font: Monego with Ligatures
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-076-129095></a>076 - <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Monofur" title="Download Monofur NF">Monofur NF</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-076-129095"  name="font-076-129095"></a>076 - <a href="https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Monofur" title="Download Monofur NF">Monofur NF</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2346,9 +2750,7 @@ Monego Nerd Font: Monego with Ligatures
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Monofur NF: `Monofur Nerd Font`: Mono and with font-ligatures versions have the same name
 
 </div>
@@ -2357,7 +2759,7 @@ Monofur NF: `Monofur Nerd Font`: Mono and with font-ligatures versions have the 
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-077-129095></a>077 - <a href="https://larsenwork.com/monoid/" title="Download Monoid">Monoid</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-077-129095"  name="font-077-129095"></a>077 - <a href="https://larsenwork.com/monoid/" title="Download Monoid">Monoid</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2376,7 +2778,7 @@ Monofur NF: `Monofur Nerd Font`: Mono and with font-ligatures versions have the 
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-078-129095></a>078 - <a href="https://larsenwork.com/monoid/" title="Download Monoisome">Monoisome</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-078-129095"  name="font-078-129095"></a>078 - <a href="https://larsenwork.com/monoid/" title="Download Monoisome">Monoisome</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2392,9 +2794,7 @@ Monofur NF: `Monofur Nerd Font`: Mono and with font-ligatures versions have the 
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Monoisome: Monoisome = Monoid + Font Awesome
 
 </div>
@@ -2403,7 +2803,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-079-129095></a>079 - <a href="https://www.fontsc.com/font/download/noto-mono" title="Download Mononoki">Mononoki</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-079-129095"  name="font-079-129095"></a>079 - <a href="https://www.fontsc.com/font/download/noto-mono" title="Download Mononoki">Mononoki</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2422,7 +2822,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-080-129095></a>080 - <a href="https://dl.1001fonts.com/nk57-monospace.zip" title="Download NK57 Monospace">NK57 Monospace</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-080-129095"  name="font-080-129095"></a>080 - <a href="https://dl.1001fonts.com/nk57-monospace.zip" title="Download NK57 Monospace">NK57 Monospace</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2443,7 +2843,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-081-129095></a>081 - <a href="https://fonts.google.com/specimen/Nanum+Gothic+Coding&preview.size=12" title="Download NanumGothicCoding">NanumGothicCoding</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&nbsp;]</span></div>
+<a id="font-081-129095"  name="font-081-129095"></a>081 - <a href="https://fonts.google.com/specimen/Nanum+Gothic+Coding&preview.size=12" title="Download NanumGothicCoding">NanumGothicCoding</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2462,7 +2862,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-082-129095></a>082 - <a href="https://www.fontsquirrel.com/fonts/nimbus-mono" title="Download Nimbus Mono">Nimbus Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&nbsp;]</span></div>
+<a id="font-082-129095"  name="font-082-129095"></a>082 - <a href="https://www.fontsquirrel.com/fonts/nimbus-mono" title="Download Nimbus Mono">Nimbus Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2483,7 +2883,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-083-129095></a>083 - <a href="https://www.fontsquirrel.com/fonts/notcouriersans" title="Download NotCourier">NotCourier</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&nbsp;]</span></div>
+<a id="font-083-129095"  name="font-083-129095"></a>083 - <a href="https://www.fontsquirrel.com/fonts/notcouriersans" title="Download NotCourier">NotCourier</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2502,7 +2902,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-084-129095></a>084 - <a href="https://www.fontsc.com/font/download/noto-mono" title="Download Noto Mono">Noto Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-084-129095"  name="font-084-129095"></a>084 - <a href="https://www.fontsc.com/font/download/noto-mono" title="Download Noto Mono">Noto Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2523,7 +2923,7 @@ Monoisome: Monoisome = Monoid + Font Awesome
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-085-129095></a>085 - <a href="https://github.com/nathco/Office-Code-Pro" title="Download Office Code Pro">Office Code Pro</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-085-129095"  name="font-085-129095"></a>085 - <a href="https://github.com/nathco/Office-Code-Pro" title="Download Office Code Pro">Office Code Pro</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2539,16 +2939,14 @@ Monoisome: Monoisome = Monoid + Font Awesome
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Office Code Pro: Fork of `Source Code Pro`
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-086-129095></a>086 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Operator Mono Lig">Operator Mono Lig</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-086-129095"  name="font-086-129095"></a>086 - <a href="https://github.com/goblincore/Coding-Fonts" title="Download Operator Mono Lig">Operator Mono Lig</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2569,7 +2967,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-087-129095></a>087 - <a href="https://www.fontsc.com/font/download/overpass-mono" title="Download Overpass Mono">Overpass Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-087-129095"  name="font-087-129095"></a>087 - <a href="https://www.fontsc.com/font/download/overpass-mono" title="Download Overpass Mono">Overpass Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2588,7 +2986,7 @@ Office Code Pro: Fork of `Source Code Pro`
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-088-129095></a>088 - <a href="https://www.fontsc.com/font/download/oxygen-mono" title="Download Oxygen Mono">Oxygen Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-088-129095"  name="font-088-129095"></a>088 - <a href="https://www.fontsc.com/font/download/oxygen-mono" title="Download Oxygen Mono">Oxygen Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2609,7 +3007,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-089-129095></a>089 - <a href="https://fonts.google.com/specimen/PT+Mono?selection.family=PT+Mono" title="Download PT Mono">PT Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-089-129095"  name="font-089-129095"></a>089 - <a href="https://fonts.google.com/specimen/PT+Mono?selection.family=PT+Mono" title="Download PT Mono">PT Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2628,7 +3026,7 @@ Office Code Pro: Fork of `Source Code Pro`
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-090-129095></a>090 - <a href="https://github.com/bluescan/proggyfonts" title="Download ProggyVector">ProggyVector</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;]</span></div>
+<a id="font-090-129095"  name="font-090-129095"></a>090 - <a href="https://github.com/bluescan/proggyfonts" title="Download ProggyVector">ProggyVector</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2649,7 +3047,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-091-129095></a>091 - <a href="https://fonts.google.com/specimen/Roboto+Mono" title="Download Roboto Mono">Roboto Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-091-129095"  name="font-091-129095"></a>091 - <a href="https://fonts.google.com/specimen/Roboto+Mono" title="Download Roboto Mono">Roboto Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2668,7 +3066,7 @@ Office Code Pro: Fork of `Source Code Pro`
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-092-129095></a>092 - <a href="https://www.cufonfonts.com/download/font/sf-mono" title="Download SF Mono">SF Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-092-129095"  name="font-092-129095"></a>092 - <a href="https://www.cufonfonts.com/download/font/sf-mono" title="Download SF Mono">SF Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2689,7 +3087,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-093-129095></a>093 - <a href="https://monospacedfont.com/" title="Download Sometype Mono">Sometype Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-093-129095"  name="font-093-129095"></a>093 - <a href="https://monospacedfont.com/" title="Download Sometype Mono">Sometype Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2708,7 +3106,7 @@ Office Code Pro: Fork of `Source Code Pro`
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-094-129095></a>094 - <a href="https://fonts.google.com/specimen/Source+Code+Pro" title="Download Source Code Pro">Source Code Pro</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-094-129095"  name="font-094-129095"></a>094 - <a href="https://fonts.google.com/specimen/Source+Code+Pro" title="Download Source Code Pro">Source Code Pro</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2729,7 +3127,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-095-129095></a>095 - <a href="https://www.fontsc.com/font/download/space-mono" title="Download Space Mono">Space Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-095-129095"  name="font-095-129095"></a>095 - <a href="https://www.fontsc.com/font/download/space-mono" title="Download Space Mono">Space Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2748,7 +3146,7 @@ Office Code Pro: Fork of `Source Code Pro`
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-096-129095></a>096 - <a href="https://www.cufonfonts.com/download/font/andale-mono" title="Download Sudo">Sudo</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-096-129095"  name="font-096-129095"></a>096 - <a href="https://www.cufonfonts.com/download/font/andale-mono" title="Download Sudo">Sudo</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2769,7 +3167,7 @@ Office Code Pro: Fork of `Source Code Pro`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-097-129095></a>097 - <a href="https://www.fontsquirrel.com/fonts/ubuntu-mono" title="Download Ubuntu Mono">Ubuntu Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-097-129095"  name="font-097-129095"></a>097 - <a href="https://www.fontsquirrel.com/fonts/ubuntu-mono" title="Download Ubuntu Mono">Ubuntu Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2785,16 +3183,14 @@ Office Code Pro: Fork of `Source Code Pro`
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Ubuntu Mono: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 
 </div>
 </div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-098-129095></a>098 - <a href="https://github.com/chrismwendt/bront" title="Download Ubuntu Mono - Bront">Ubuntu Mono - Bront</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-098-129095"  name="font-098-129095"></a>098 - <a href="https://github.com/chrismwendt/bront" title="Download Ubuntu Mono - Bront">Ubuntu Mono - Bront</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2810,9 +3206,7 @@ Ubuntu Mono: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 // --- FONT SETTINGS :: END
 ```
 
-</div><div style="border-bottom-width:1px;border-bottom-style:solid;border-color:#766D58;"></div>
-
-<div style="padding:12px;background-color:#0F1418;color:#999999;"><span style="font-size:115%;color:#766D58;">Notes</span><br>
+</div><div><b>Notes</b><br>
 Ubuntu Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 
 </div>
@@ -2821,7 +3215,7 @@ Ubuntu Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-099-129095></a>099 - <a href="https://rubjo.github.io/victor-mono" title="Download Victor Mono">Victor Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-099-129095"  name="font-099-129095"></a>099 - <a href="https://rubjo.github.io/victor-mono" title="Download Victor Mono">Victor Mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Ligatures" >&#8655;</span>&nbsp;<span title="Font has Script Variant for Italic" >&#119998;</span>&nbsp;<span title="Font is Serif" >&#65332;</span>&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2875,7 +3269,7 @@ Ubuntu Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 </div></div>
 </div></td><td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-100-129095></a>100 - <a href="https://github.com/raphaelbastide/Whois-mono/blob/master/whois-mono.ttf" title="Download Whois mono">Whois mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-100-129095"  name="font-100-129095"></a>100 - <a href="https://github.com/raphaelbastide/Whois-mono/blob/master/whois-mono.ttf" title="Download Whois mono">Whois mono</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2896,7 +3290,7 @@ Ubuntu Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 <tr>
 <td valign="top"><div style="margin:auto;"><div>
 <div>
-<a id=font-101-129095></a>101 - <a href="https://ia.net/downloads#fonts" title="Download iA Writer Mono S">iA Writer Mono S</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
+<a id="font-101-129095"  name="font-101-129095"></a>101 - <a href="https://ia.net/downloads#fonts" title="Download iA Writer Mono S">iA Writer Mono S</a>&nbsp;&#11206; <span style="float:right;font-weight:normal;">[&nbsp;<span title="Font has Zero Slashed or Zero Dotted" >&Oslash;</span>&nbsp;]</span></div>
 
 <div style="text-align:left;font-size:12px;vertical-align:top;height:1%;">
 
@@ -2919,19 +3313,34 @@ Ubuntu Mono - Bront: Tweaked `DejaVu Sans Mono` and `Ubuntu Mono`
 
 
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 # About Token Colors
 
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## Apophis based
 
 **Apophis** variants is based on philosophy of `Zenburn` token colors.
 
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 ## Zenburn based
 
@@ -2942,7 +3351,12 @@ These variants has a dark gray cold/flat/warm backgrounds (based on the theme yo
 - images in extensions README.md and in image viewer cannot be filtered.
 
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 # About my PHP Script **VSCode Themes Master**
 
@@ -2959,14 +3373,24 @@ _VSCode Themes Master_ allows me to build all the files necessary for the public
 Starting from _VSCode Themes Master_ V. 1.2.40, I can generate themes, not only from `TextMate` files, but also using the export of token colors from Visual Studio Code in JSON format.
 
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 # Gratitude
 
 `Zenburn based Themes`: many thanks to **Ryan Olson** and [Zenburn](http://kippura.org/zenburnpage/) . You can download the original porting by **Ryan Olson**, on which the first version of this variant's Token Colors were based, at Marketplace: [Zenburn Theme by Ryan Olson](https://marketplace.visualstudio.com/items/ryanolsonx.zenburn).
 
 
-<div align="right"><a href="#table-of-contents" alt="Table of contents" title="Go to Table of contents">&#128316;</a></div>
+
+<div align="right">
+
+[Go to Table of Contents](#table-of-contents)
+
+</div>
 
 # License
 
