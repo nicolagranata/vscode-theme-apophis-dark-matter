@@ -2,7 +2,7 @@
 
 ## `Apophis Dark Matter` Theme Change Log 
 
-> Engine: **VSCode Themes Master** v. 1.12.221 - Update: 2021-08-15 02:01:34
+> Engine: **VSCode Themes Master** v. 1.12.221 - Update: 2021-08-15 03:16:38
 
 > Note 1: This Changelog is for the whole **Dark Matter Suite**, not just for this specific Theme.
 
