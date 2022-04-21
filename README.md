@@ -76,7 +76,7 @@ Personally, I think that if your monitor has `sRGB` capabilities, the `Standard`
 
 # Changelog for Apophis Dark Matter Theme
 
-> Engine: **VSCode Themes Master** v. 1.12.253 - Update: 2022-04-21 14:23:07
+> Engine: **VSCode Themes Master** v. 1.12.253 - Update: 2022-04-21 14:24:58
 
 > Note 1: This Changelog is for the whole **Dark Matter Suite**, not just for this specific Theme.
 
@@ -197,9 +197,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Apophis Dark Matter - Cold - Mystic River](./_gfx/apophis-dark-matter-cold-mystic-river-preview.png)](./_gfx/apophis-dark-matter-cold-mystic-river-preview.png)
+[![Apophis Dark Matter - Cold - Kronos](./_gfx/apophis-dark-matter-cold-kronos-preview.png)](./_gfx/apophis-dark-matter-cold-kronos-preview.png)
 
-[Mystic River](./_gfx/apophis-dark-matter-cold-mystic-river-preview.png) <br>Cold
+[Kronos](./_gfx/apophis-dark-matter-cold-kronos-preview.png) <br>Cold
 
 
 <table>
@@ -224,23 +224,23 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Apophis Dark Matter - Cold - Kronos](./_gfx/apophis-dark-matter-cold-kronos-preview.png)](./_gfx/apophis-dark-matter-cold-kronos-preview.png)
+[![Apophis Dark Matter - Cold - Meabh](./_gfx/apophis-dark-matter-cold-meabh-preview.png)](./_gfx/apophis-dark-matter-cold-meabh-preview.png)
 
-[Kronos](./_gfx/apophis-dark-matter-cold-kronos-preview.png) <br>Cold
+[Meabh](./_gfx/apophis-dark-matter-cold-meabh-preview.png) <br>Cold
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" >
 
-[![Apophis Dark Matter - Cold - Meabh](./_gfx/apophis-dark-matter-cold-meabh-preview.png)](./_gfx/apophis-dark-matter-cold-meabh-preview.png)
-
-[Meabh](./_gfx/apophis-dark-matter-cold-meabh-preview.png) <br>Cold
-</td>
-<td align="center" valign="top" >
-
 [![Apophis Dark Matter - Cold - Morion](./_gfx/apophis-dark-matter-cold-morion-preview.png)](./_gfx/apophis-dark-matter-cold-morion-preview.png)
 
 [Morion](./_gfx/apophis-dark-matter-cold-morion-preview.png) <br>Cold
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Cold - Mystic River](./_gfx/apophis-dark-matter-cold-mystic-river-preview.png)](./_gfx/apophis-dark-matter-cold-mystic-river-preview.png)
+
+[Mystic River](./_gfx/apophis-dark-matter-cold-mystic-river-preview.png) <br>Cold
 </td>
 <td align="center" valign="top" >
 
@@ -343,19 +343,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Apophis Dark Matter - Equinox - Kronos](./_gfx/apophis-dark-matter-equinox-kronos-preview.png)](./_gfx/apophis-dark-matter-equinox-kronos-preview.png)
+[![Apophis Dark Matter - Equinox - Black Pond Has My Heart](./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png)](./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png)
 
-[Kronos](./_gfx/apophis-dark-matter-equinox-kronos-preview.png) <br>Equinox
+[Black pond has my heart](./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png) <br>Equinox
 
 
 <table>
 <tr>
-<td align="center" valign="top" >
-
-[![Apophis Dark Matter - Equinox - Black Pond Has My Heart](./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png)](./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png)
-
-[Black pond has my heart](./_gfx/apophis-dark-matter-equinox-black-pond-has-my-heart-preview.png) <br>Equinox
-</td>
 <td align="center" valign="top" >
 
 [![Apophis Dark Matter - Equinox - Burn](./_gfx/apophis-dark-matter-equinox-burn-preview.png)](./_gfx/apophis-dark-matter-equinox-burn-preview.png)
@@ -367,6 +361,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Apophis Dark Matter - Equinox - Komodo](./_gfx/apophis-dark-matter-equinox-komodo-preview.png)](./_gfx/apophis-dark-matter-equinox-komodo-preview.png)
 
 [Komodo](./_gfx/apophis-dark-matter-equinox-komodo-preview.png) <br>Equinox
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Equinox - Kronos](./_gfx/apophis-dark-matter-equinox-kronos-preview.png)](./_gfx/apophis-dark-matter-equinox-kronos-preview.png)
+
+[Kronos](./_gfx/apophis-dark-matter-equinox-kronos-preview.png) <br>Equinox
 </td>
 <td align="center" valign="top" >
 
@@ -417,19 +417,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Apophis Dark Matter - Flat - Obsidian](./_gfx/apophis-dark-matter-flat-obsidian-preview.png)](./_gfx/apophis-dark-matter-flat-obsidian-preview.png)
+[![Apophis Dark Matter - Flat - Aquamarine](./_gfx/apophis-dark-matter-flat-aquamarine-preview.png)](./_gfx/apophis-dark-matter-flat-aquamarine-preview.png)
 
-[Obsidian](./_gfx/apophis-dark-matter-flat-obsidian-preview.png) <br>Flat
+[Aquamarine](./_gfx/apophis-dark-matter-flat-aquamarine-preview.png) <br>Flat
 
 
 <table>
 <tr>
-<td align="center" valign="top" >
-
-[![Apophis Dark Matter - Flat - Aquamarine](./_gfx/apophis-dark-matter-flat-aquamarine-preview.png)](./_gfx/apophis-dark-matter-flat-aquamarine-preview.png)
-
-[Aquamarine](./_gfx/apophis-dark-matter-flat-aquamarine-preview.png) <br>Flat
-</td>
 <td align="center" valign="top" >
 
 [![Apophis Dark Matter - Flat - Black Pond Has My Heart](./_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png)](./_gfx/apophis-dark-matter-flat-black-pond-has-my-heart-preview.png)
@@ -448,14 +442,14 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 [Kronos](./_gfx/apophis-dark-matter-flat-kronos-preview.png) <br>Flat
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Apophis Dark Matter - Flat - Meabh](./_gfx/apophis-dark-matter-flat-meabh-preview.png)](./_gfx/apophis-dark-matter-flat-meabh-preview.png)
 
 [Meabh](./_gfx/apophis-dark-matter-flat-meabh-preview.png) <br>Flat
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Apophis Dark Matter - Flat - Morion](./_gfx/apophis-dark-matter-flat-morion-preview.png)](./_gfx/apophis-dark-matter-flat-morion-preview.png)
@@ -467,6 +461,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Apophis Dark Matter - Flat - Mystic River](./_gfx/apophis-dark-matter-flat-mystic-river-preview.png)](./_gfx/apophis-dark-matter-flat-mystic-river-preview.png)
 
 [Mystic River](./_gfx/apophis-dark-matter-flat-mystic-river-preview.png) <br>Flat
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Flat - Obsidian](./_gfx/apophis-dark-matter-flat-obsidian-preview.png)](./_gfx/apophis-dark-matter-flat-obsidian-preview.png)
+
+[Obsidian](./_gfx/apophis-dark-matter-flat-obsidian-preview.png) <br>Flat
 </td>
 <td align="center" valign="top" >
 
@@ -513,13 +513,19 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Apophis Dark Matter - Insomnia - Black Pond Has My Heart](./_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png)](./_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png)
+[![Apophis Dark Matter - Insomnia - Obsidian](./_gfx/apophis-dark-matter-insomnia-obsidian-preview.png)](./_gfx/apophis-dark-matter-insomnia-obsidian-preview.png)
 
-[Black pond has my heart](./_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png) <br>Insomnia
+[Obsidian](./_gfx/apophis-dark-matter-insomnia-obsidian-preview.png) <br>Insomnia
 
 
 <table>
 <tr>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Insomnia - Black Pond Has My Heart](./_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png)](./_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png)
+
+[Black pond has my heart](./_gfx/apophis-dark-matter-insomnia-black-pond-has-my-heart-preview.png) <br>Insomnia
+</td>
 <td align="center" valign="top" >
 
 [![Apophis Dark Matter - Insomnia - Burn](./_gfx/apophis-dark-matter-insomnia-burn-preview.png)](./_gfx/apophis-dark-matter-insomnia-burn-preview.png)
@@ -538,25 +544,19 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 [Kronos](./_gfx/apophis-dark-matter-insomnia-kronos-preview.png) <br>Insomnia
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Apophis Dark Matter - Insomnia - Meabh](./_gfx/apophis-dark-matter-insomnia-meabh-preview.png)](./_gfx/apophis-dark-matter-insomnia-meabh-preview.png)
 
 [Meabh](./_gfx/apophis-dark-matter-insomnia-meabh-preview.png) <br>Insomnia
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Apophis Dark Matter - Insomnia - Mystic River](./_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png)](./_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png)
 
 [Mystic River](./_gfx/apophis-dark-matter-insomnia-mystic-river-preview.png) <br>Insomnia
-</td>
-<td align="center" valign="top" >
-
-[![Apophis Dark Matter - Insomnia - Obsidian](./_gfx/apophis-dark-matter-insomnia-obsidian-preview.png)](./_gfx/apophis-dark-matter-insomnia-obsidian-preview.png)
-
-[Obsidian](./_gfx/apophis-dark-matter-insomnia-obsidian-preview.png) <br>Insomnia
 </td>
 <td align="center" valign="top" >
 
@@ -635,19 +635,13 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Apophis Dark Matter - Nadir - Obsidian](./_gfx/apophis-dark-matter-nadir-obsidian-preview.png)](./_gfx/apophis-dark-matter-nadir-obsidian-preview.png)
+[![Apophis Dark Matter - Nadir - Aquamarine](./_gfx/apophis-dark-matter-nadir-aquamarine-preview.png)](./_gfx/apophis-dark-matter-nadir-aquamarine-preview.png)
 
-[Obsidian](./_gfx/apophis-dark-matter-nadir-obsidian-preview.png) <br>Nadir
+[Aquamarine](./_gfx/apophis-dark-matter-nadir-aquamarine-preview.png) <br>Nadir
 
 
 <table>
 <tr>
-<td align="center" valign="top" >
-
-[![Apophis Dark Matter - Nadir - Aquamarine](./_gfx/apophis-dark-matter-nadir-aquamarine-preview.png)](./_gfx/apophis-dark-matter-nadir-aquamarine-preview.png)
-
-[Aquamarine](./_gfx/apophis-dark-matter-nadir-aquamarine-preview.png) <br>Nadir
-</td>
 <td align="center" valign="top" >
 
 [![Apophis Dark Matter - Nadir - Black Pond Has My Heart](./_gfx/apophis-dark-matter-nadir-black-pond-has-my-heart-preview.png)](./_gfx/apophis-dark-matter-nadir-black-pond-has-my-heart-preview.png)
@@ -666,14 +660,14 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 [Komodo](./_gfx/apophis-dark-matter-nadir-komodo-preview.png) <br>Nadir
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" >
 
 [![Apophis Dark Matter - Nadir - Kronos](./_gfx/apophis-dark-matter-nadir-kronos-preview.png)](./_gfx/apophis-dark-matter-nadir-kronos-preview.png)
 
 [Kronos](./_gfx/apophis-dark-matter-nadir-kronos-preview.png) <br>Nadir
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" >
 
 [![Apophis Dark Matter - Nadir - Meabh](./_gfx/apophis-dark-matter-nadir-meabh-preview.png)](./_gfx/apophis-dark-matter-nadir-meabh-preview.png)
@@ -691,6 +685,12 @@ However, attempts were made to leave error signals and selections clearly visibl
 [![Apophis Dark Matter - Nadir - Mystic River](./_gfx/apophis-dark-matter-nadir-mystic-river-preview.png)](./_gfx/apophis-dark-matter-nadir-mystic-river-preview.png)
 
 [Mystic River](./_gfx/apophis-dark-matter-nadir-mystic-river-preview.png) <br>Nadir
+</td>
+<td align="center" valign="top" >
+
+[![Apophis Dark Matter - Nadir - Obsidian](./_gfx/apophis-dark-matter-nadir-obsidian-preview.png)](./_gfx/apophis-dark-matter-nadir-obsidian-preview.png)
+
+[Obsidian](./_gfx/apophis-dark-matter-nadir-obsidian-preview.png) <br>Nadir
 </td>
 </tr>
 <tr>
@@ -733,9 +733,9 @@ However, attempts were made to leave error signals and selections clearly visibl
 
 
 
-[![Apophis Dark Matter - Warm - Komodo](./_gfx/apophis-dark-matter-warm-komodo-preview.png)](./_gfx/apophis-dark-matter-warm-komodo-preview.png)
+[![Apophis Dark Matter - Warm - Meabh](./_gfx/apophis-dark-matter-warm-meabh-preview.png)](./_gfx/apophis-dark-matter-warm-meabh-preview.png)
 
-[Komodo](./_gfx/apophis-dark-matter-warm-komodo-preview.png) <br>Warm
+[Meabh](./_gfx/apophis-dark-matter-warm-meabh-preview.png) <br>Warm
 
 
 <table>
@@ -754,15 +754,15 @@ However, attempts were made to leave error signals and selections clearly visibl
 </td>
 <td align="center" valign="top" >
 
-[![Apophis Dark Matter - Warm - Kronos](./_gfx/apophis-dark-matter-warm-kronos-preview.png)](./_gfx/apophis-dark-matter-warm-kronos-preview.png)
+[![Apophis Dark Matter - Warm - Komodo](./_gfx/apophis-dark-matter-warm-komodo-preview.png)](./_gfx/apophis-dark-matter-warm-komodo-preview.png)
 
-[Kronos](./_gfx/apophis-dark-matter-warm-kronos-preview.png) <br>Warm
+[Komodo](./_gfx/apophis-dark-matter-warm-komodo-preview.png) <br>Warm
 </td>
 <td align="center" valign="top" >
 
-[![Apophis Dark Matter - Warm - Meabh](./_gfx/apophis-dark-matter-warm-meabh-preview.png)](./_gfx/apophis-dark-matter-warm-meabh-preview.png)
+[![Apophis Dark Matter - Warm - Kronos](./_gfx/apophis-dark-matter-warm-kronos-preview.png)](./_gfx/apophis-dark-matter-warm-kronos-preview.png)
 
-[Meabh](./_gfx/apophis-dark-matter-warm-meabh-preview.png) <br>Warm
+[Kronos](./_gfx/apophis-dark-matter-warm-kronos-preview.png) <br>Warm
 </td>
 </tr>
 <tr>
@@ -4820,7 +4820,7 @@ These variants has a dark gray cold/flat/warm backgrounds (based on the theme yo
 
 # About my PHP Script **VSCode Themes Master**
 
-> Engine: **VSCode Themes Master** v. 1.12.253 - Update: 2022-04-21 14:23:07
+> Engine: **VSCode Themes Master** v. 1.12.253 - Update: 2022-04-21 14:24:58
 
 The `Zenburn Cold Gray` prototype was initially a manual editing of the VSCode settings and some tokens, based on the `Zenburn` theme porting from `Eclipse IDE` (see below the thanks, to the paragraph `Gratitude`) in conjunction with the background of the `DevStyle` extension for Eclipse IDE.
 
